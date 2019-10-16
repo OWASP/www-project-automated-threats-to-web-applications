@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP automated threats to web applications
 tags: example-tag
 level: 4
+type: documentation
 
 ---
 
