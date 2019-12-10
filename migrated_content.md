@@ -837,7 +837,7 @@ we do not endorse products or services.
 # FAQs
 
   - What do you mean by "web", "application" and "automated threat"?
-    See the definitions in the project's {{\#switchtablink:Project Scope
+    See the definitions in the project's \#switchtablink:Project Scope
     and Definitions|glossary}}.
 
 <!-- end list -->
@@ -954,8 +954,8 @@ Watson](mailto:colin.watson@owasp.org).
 
 ## Completed Outputs
 
-  - {{\#switchtablink:Scope and Definitions|Glossary}}
-  - {{\#switchtablink:Bibliography|Bibligraphy of information sources}}
+  - \#switchtablink:Scope and Definitions|Glossary}}
+  - \#switchtablink:Bibliography|Bibligraphy of information sources}}
   - A [summary
     chart](https://www.owasp.org/index.php/File:Automated-threats.pdf)
     has been published summarising the information gathered and work to
