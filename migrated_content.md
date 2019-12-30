@@ -27,52 +27,52 @@ auto-migrated: 1
 <tbody>
 <tr class="odd">
 <p>The OWASP Automated Threats to Web Applications Project has completed a review of reports, academic and other papers, news stories and vulnerability taxonomies/listings to identify, name and classify these scenarios – automated by software causing a divergence from accepted behavior producing one or more undesirable effects on a web application, but excluding tool-based exploitation of single-issue vulnerabilities. The initial objective was to produce an ontology providing a common language for developers, architects, operators, business owners, security engineers, purchasers and suppliers/ vendors, to facilitate clear communication and help tackle the issues. The project also identifies symptoms, mitigations and controls in this problem area. Like all OWASP outputs, everything is free and published using an open source license.</p>
-<p><a href="https://www.owasp.org/index.php/File:Automation-project-briefing.pdf">Two page summary project briefing as a PDF</a>.</p>
+<p><a href="/www-pdf-archive/File:Automation-project-briefing.pdf">Two page summary project briefing as a PDF</a>.</p>
 <h2 id="description">Description</h2>
 <p>Web applications are subjected to unwanted automated usage – day in, day out. Often these events relate to misuse of inherent valid functionality, rather than the attempted exploitation of unmitigated vulnerabilities. Also, excessive misuse is commonly mistakenly reported as application denial-of-service (DoS) like HTTP-flooding, when in fact the DoS is a side-effect instead of the primary intent. Frequently these have sector-specific names. Most of these problems seen regularly by web application owners are not listed in any OWASP Top Ten or other top issue list. Furthermore, they are not enumerated or defined adequately in existing dictionaries. These factors have contributed to inadequate visibility, and an inconsistency in naming such threats, with a consequent lack of clarity in attempts to address the issues.</p>
 <p>Without sharing a common language between devops, architects, business owners, security engineers, purchasers and suppliers/vendors, everyone has to make extra effort to communicate clearly. Misunderstandings can be costly. The adverse impacts affect the privacy and security of individuals as well as the security of the applications and related system components.</p>
 <h2 id="automated_threats">Automated Threats</h2>
-<p>The list of threat events, defined more fully in the <a href="https://www.owasp.org/index.php/File:Automated-threat-handbook.pdf">OWASP Automated Threat Handbook</a>, is:</p>
+<p>The list of threat events, defined more fully in the <a href="/www-pdf-archive/File:Automated-threat-handbook.pdf">OWASP Automated Threat Handbook</a>, is:</p>
 <table>
 <thead>
 <tr class="header">
 <th style="text-align: left;"><ul>
-<li><a href="OAT-020_Account_Aggregation" title="wikilink">OAT-020 Account Aggregation</a></li>
-<li><a href="OAT-019_Account_Creation" title="wikilink">OAT-019 Account Creation</a></li>
-<li><a href="OAT-003_Ad_Fraud" title="wikilink">OAT-003 Ad Fraud</a></li>
-<li><a href="OAT-009_CAPTCHA_Defeat" title="wikilink">OAT-009 CAPTCHA Defeat</a></li>
-<li><a href="OAT-010_Card_Cracking" title="wikilink">OAT-010 Card Cracking</a></li>
-<li><a href="OAT-001_Carding" title="wikilink">OAT-001 Carding</a></li>
-<li><a href="OAT-012_Cashing_Out" title="wikilink">OAT-012 Cashing Out</a></li>
-<li><a href="OAT-007_Credential_Cracking" title="wikilink">OAT-007 Credential Cracking</a></li>
-<li><a href="OAT-008_Credential_Stuffing" title="wikilink">OAT-008 Credential Stuffing</a></li>
-<li><a href="OAT-021_Denial_of_Inventory" title="wikilink">OAT-021 Denial of Inventory</a></li>
-<li><a href="OAT-015_Denial_of_Service" title="wikilink">OAT-015 Denial of Service</a></li>
+<li><a href="OAT-020_Account_Aggregation" title=>OAT-020 Account Aggregation</a></li>
+<li><a href="OAT-019_Account_Creation" title=>OAT-019 Account Creation</a></li>
+<li><a href="OAT-003_Ad_Fraud" title=>OAT-003 Ad Fraud</a></li>
+<li><a href="OAT-009_CAPTCHA_Defeat" title=>OAT-009 CAPTCHA Defeat</a></li>
+<li><a href="OAT-010_Card_Cracking" title=>OAT-010 Card Cracking</a></li>
+<li><a href="OAT-001_Carding" title=>OAT-001 Carding</a></li>
+<li><a href="OAT-012_Cashing_Out" title=>OAT-012 Cashing Out</a></li>
+<li><a href="OAT-007_Credential_Cracking" title=>OAT-007 Credential Cracking</a></li>
+<li><a href="OAT-008_Credential_Stuffing" title=>OAT-008 Credential Stuffing</a></li>
+<li><a href="OAT-021_Denial_of_Inventory" title=>OAT-021 Denial of Inventory</a></li>
+<li><a href="OAT-015_Denial_of_Service" title=>OAT-015 Denial of Service</a></li>
 </ul></th>
 <th style="text-align: left;"><ul>
-<li><a href="OAT-006_Expediting" title="wikilink">OAT-006 Expediting</a></li>
-<li><a href="OAT-004_Fingerprinting" title="wikilink">OAT-004 Fingerprinting</a></li>
-<li><a href="OAT-018_Footprinting" title="wikilink">OAT-018 Footprinting</a></li>
-<li><a href="OAT-005_Scalping" title="wikilink">OAT-005 Scalping</a></li>
-<li><a href="OAT-011_Scraping" title="wikilink">OAT-011 Scraping</a></li>
-<li><a href="OAT-016_Skewing" title="wikilink">OAT-016 Skewing</a></li>
-<li><a href="OAT-013_Sniping" title="wikilink">OAT-013 Sniping</a></li>
-<li><a href="OAT-017_Spamming" title="wikilink">OAT-017 Spamming</a></li>
-<li><a href="OAT-002_Token_Cracking" title="wikilink">OAT-002 Token Cracking</a></li>
-<li><a href="OAT-014_Vulnerability_Scanning" title="wikilink">OAT-014 Vulnerability Scanning</a></li>
+<li><a href="OAT-006_Expediting" title=>OAT-006 Expediting</a></li>
+<li><a href="OAT-004_Fingerprinting" title=>OAT-004 Fingerprinting</a></li>
+<li><a href="OAT-018_Footprinting" title=>OAT-018 Footprinting</a></li>
+<li><a href="OAT-005_Scalping" title=>OAT-005 Scalping</a></li>
+<li><a href="OAT-011_Scraping" title=>OAT-011 Scraping</a></li>
+<li><a href="OAT-016_Skewing" title=>OAT-016 Skewing</a></li>
+<li><a href="OAT-013_Sniping" title=>OAT-013 Sniping</a></li>
+<li><a href="OAT-017_Spamming" title=>OAT-017 Spamming</a></li>
+<li><a href="OAT-002_Token_Cracking" title=>OAT-002 Token Cracking</a></li>
+<li><a href="OAT-014_Vulnerability_Scanning" title=>OAT-014 Vulnerability Scanning</a></li>
 </ul></th>
 </tr>
 </thead>
 <tbody>
 </tbody>
 </table>
-<p>Not sure which is which? Use the <a href="https://www.owasp.org/index.php/File:Oat-ontology-decision-chart.pdf">threat identification chart</a> in conjunction with the full <a href="https://www.owasp.org/index.php/File:Automated-threat-handbook.pdf">handbook</a>.</p>
+<p>Not sure which is which? Use the <a href="/www-pdf-archive/File:Oat-ontology-decision-chart.pdf">threat identification chart</a> in conjunction with the full <a href="/www-pdf-archive/File:Automated-threat-handbook.pdf">handbook</a>.</p>
 <h2 id="licensing">Licensing</h2>
 <p>All the materials are free to use. They are licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 license</a>, so you can copy, distribute and transmit the work, and you can adapt it, and use it commercially, but all provided that you attribute the work and if you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.</p>
 <p>© OWASP Foundation</p></td>
 <td><h2 id="what_is_this">What Is This?</h2>
-<p>Information and resources to help web application owners defend against <a href=":Category:Automated_Threat" title="wikilink">automated threats</a></p>
-<p>Information and resources to help web application owners defend against <a href=":Category:Automated_Threat" title="wikilink">automated threats</a></p>
+<p>Information and resources to help web application owners defend against <a href=":Category:Automated_Threat" title=>automated threats</a></p>
+<p>Information and resources to help web application owners defend against <a href=":Category:Automated_Threat" title=>automated threats</a></p>
 <h2 id="what_isnt_it">What Isn't It?</h2>
 <h2 id="what_isnt_it">What Isn't It?</h2>
 <ul>
@@ -117,16 +117,16 @@ auto-migrated: 1
 <h2 id="related_projects">Related Projects</h2>
 <ul>
 <ul>
-<li><a href="OWASP_WASC_Web_Hacking_Incidents_Database_Project" title="wikilink">OWASP WASC Web Hacking Incidents Database Project</a></li>
-<li><a href="OWASP_WASC_Web_Hacking_Incidents_Database_Project" title="wikilink">OWASP WASC Web Hacking Incidents Database Project</a></li>
-<li><a href="OWASP_AppSensor_Project" title="wikilink">OWASP AppSensor Project</a></li>
-<li><a href="OWASP_AppSensor_Project" title="wikilink">OWASP AppSensor Project</a></li>
-<li><a href="OWASP_ModSecurity_Core_Rule_Set_Project" title="wikilink">OWASP ModSecurity Core Rule Set Project</a></li>
-<li><a href="OWASP_ModSecurity_Core_Rule_Set_Project" title="wikilink">OWASP ModSecurity Core Rule Set Project</a></li>
+<li><a href="OWASP_WASC_Web_Hacking_Incidents_Database_Project" title=>OWASP WASC Web Hacking Incidents Database Project</a></li>
+<li><a href="OWASP_WASC_Web_Hacking_Incidents_Database_Project" title=>OWASP WASC Web Hacking Incidents Database Project</a></li>
+<li><a href="OWASP_AppSensor_Project" title=>OWASP AppSensor Project</a></li>
+<li><a href="OWASP_AppSensor_Project" title=>OWASP AppSensor Project</a></li>
+<li><a href="OWASP_ModSecurity_Core_Rule_Set_Project" title=>OWASP ModSecurity Core Rule Set Project</a></li>
+<li><a href="OWASP_ModSecurity_Core_Rule_Set_Project" title=>OWASP ModSecurity Core Rule Set Project</a></li>
 </ul></td>
 </ul></td>
 <ul>
-<li><a href="https://www.owasp.org/index.php/File:Automated-threat-handbook.pdf">Download the free handbook as a PDF</a></li>
+<li><a href="/www-pdf-archive/File:Automated-threat-handbook.pdf">Download the free handbook as a PDF</a></li>
 </ul>
 <h2 id="news_and_events">News and Events</h2>
 <ul>
@@ -136,12 +136,12 @@ auto-migrated: 1
 <li>[19-20 Sep 2017] Working session at the AppSecUSA 2017 Project Summit</li>
 <li>[15 May 2017] Draft feedback on Top Ten A7 shared</li>
 <li>[17 Apr 2017] <a href="https://www.owasp.org/index.php/File:BadBots_OWASP_AppSec_CA_2017.pptx">Slides</a> from AppSec California (2017)</li>
-<li>[20 Dec 2016] Threat identification chart <a href="https://www.owasp.org/index.php/File:Oat-ontology-decision-chart.pdf">published</a></li>
+<li>[20 Dec 2016] Threat identification chart <a href="/www-pdf-archive/File:Oat-ontology-decision-chart.pdf">published</a></li>
 <li>[03 Nov 2016] Presentation at <a href="http://lascon.org/">LASCON 2016</a></li>
 <li>[03 Nov 2016] v1.1 Handbook published</li>
 <li>[11-12 Oct 2016] Working session at the <a href="https://docs.google.com/presentation/d/1iMQHTc-h5qcP7gBBRcPHGmVaTWqx3dpMwNMVlA--rqs/edit#slide=id.p3">AppSecUSA 2017 Project Summit</a></li>
 <li>[04 Aug 2016] Project Q&amp;A at Blackhat USA 2-5pm in the OWASP booth</li>
-<li>[26 Oct 2015] <a href="https://www.owasp.org/index.php/File:Automated-threat-handbook.pdf">v1.01 handbook</a> published</li>
+<li>[26 Oct 2015] <a href="/www-pdf-archive/File:Automated-threat-handbook.pdf">v1.01 handbook</a> published</li>
 <li>[24 Sep 2015] <a href="https://www.owasp.org/index.php/File:Colinwatson-a-new-ontology-of-unwanted-automation.pptx">Presentation</a> at <a href="https://2015.appsecusa.org/c/?page_id=896#a">AppSec USA 2015</a></li>
 </ul>
 <h2 id="in_print">In Print</h2>
@@ -379,33 +379,33 @@ their reference customers Hollybush Challenge Games to protect against
 ## Introduction
 
 The A-Z list of [automated threat
-events](:Category:Automated_Threat "wikilink") and summary descriptions,
+events](:Category:Automated_Threat ) and summary descriptions,
 defined in full in the [OWASP Automated Threat
 Handbook](https://www.owasp.org/index.php/File:Automated-threat-handbook.pdf),
 is:
 
-| [OAT-020 Account Aggregation](OAT-020_Account_Aggregation "wikilink")       | Use by an intermediary application that collects together multiple accounts and interacts on their behalf.                 |
+| [OAT-020 Account Aggregation](OAT-020_Account_Aggregation )       | Use by an intermediary application that collects together multiple accounts and interacts on their behalf.                 |
 | :-------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------- |
-| [OAT-019 Account Creation](OAT-019_Account_Creation "wikilink")             | Create multiple accounts for subsequent misuse.                                                                            |
-| [OAT-003 Ad Fraud](OAT-003_Ad_Fraud "wikilink")                             | False clicks and fraudulent display of web-placed advertisements.                                                          |
-| [OAT-009 CAPTCHA Defeat](OAT-009_CAPTCHA_Defeat "wikilink")                 | Solve anti-automation tests.                                                                                               |
-| [OAT-010 Card Cracking](OAT-010_Card_Cracking "wikilink")                   | Identify missing start/expiry dates and security codes for stolen payment card data by trying different values.            |
-| [OAT-001 Carding](OAT-001_Carding "wikilink")                               | Multiple payment authorisation attempts used to verify the validity of bulk stolen payment card data.                      |
-| [OAT-012 Cashing Out](OAT-012_Cashing_Out "wikilink")                       | Buy goods or obtain cash utilising validated stolen payment card or other user account data.                               |
-| [OAT-007 Credential Cracking](OAT-007_Credential_Cracking "wikilink")       | Identify valid login credentials by trying different values for usernames and/or passwords.                                |
-| [OAT-008 Credential Stuffing](OAT-008_Credential_Stuffing "wikilink")       | Mass log in attempts used to verify the validity of stolen username/password pairs.                                        |
-| [OAT-021 Denial of Inventory](OAT-021_Denial_of_Inventory "wikilink")       | Deplete goods or services stock without ever completing the purchase or committing to the transaction.                     |
-| [OAT-015 Denial of Service](OAT-015_Denial_of_Service "wikilink")           | Target resources of the application and database servers, or individual user accounts, to achieve denial of service (DoS). |
-| [OAT-006 Expediting](OAT-006_Expediting "wikilink")                         | Perform actions to hasten progress of usually slow, tedious or time-consuming actions.                                     |
-| [OAT-004 Fingerprinting](OAT-004_Fingerprinting "wikilink")                 | Elicit information about the supporting software and framework types and versions.                                         |
-| [OAT-018 Footprinting](OAT-018_Footprinting "wikilink")                     | Probe and explore application to identify its constituents and properties.                                                 |
-| [OAT-005 Scalping](OAT-005_Scalping "wikilink")                             | Obtain limited-availability and/or preferred goods/services by unfair methods.                                             |
-| [OAT-011 Scraping](OAT-011_Scraping "wikilink")                             | Collect application content and/or other data for use elsewhere.                                                           |
-| [OAT-016 Skewing](OAT-016_Skewing "wikilink")                               | Repeated link clicks, page requests or form submissions intended to alter some metric.                                     |
-| [OAT-013 Sniping](OAT-013_Sniping "wikilink")                               | Last minute bid or offer for goods or services.                                                                            |
-| [OAT-017 Spamming](OAT-017_Spamming "wikilink")                             | Malicious or questionable information addition that appears in public or private content, databases or user messages.      |
-| [OAT-002 Token Cracking](OAT-002_Token_Cracking "wikilink")                 | Mass enumeration of coupon numbers, voucher codes, discount tokens, etc.                                                   |
-| [OAT-014 Vulnerability Scanning](OAT-014_Vulnerability_Scanning "wikilink") | Crawl and fuzz application to identify weaknesses and possible vulnerabilities.                                            |
+| [OAT-019 Account Creation](OAT-019_Account_Creation )             | Create multiple accounts for subsequent misuse.                                                                            |
+| [OAT-003 Ad Fraud](OAT-003_Ad_Fraud )                             | False clicks and fraudulent display of web-placed advertisements.                                                          |
+| [OAT-009 CAPTCHA Defeat](OAT-009_CAPTCHA_Defeat )                 | Solve anti-automation tests.                                                                                               |
+| [OAT-010 Card Cracking](OAT-010_Card_Cracking )                   | Identify missing start/expiry dates and security codes for stolen payment card data by trying different values.            |
+| [OAT-001 Carding](OAT-001_Carding )                               | Multiple payment authorisation attempts used to verify the validity of bulk stolen payment card data.                      |
+| [OAT-012 Cashing Out](OAT-012_Cashing_Out )                       | Buy goods or obtain cash utilising validated stolen payment card or other user account data.                               |
+| [OAT-007 Credential Cracking](OAT-007_Credential_Cracking )       | Identify valid login credentials by trying different values for usernames and/or passwords.                                |
+| [OAT-008 Credential Stuffing](OAT-008_Credential_Stuffing )       | Mass log in attempts used to verify the validity of stolen username/password pairs.                                        |
+| [OAT-021 Denial of Inventory](OAT-021_Denial_of_Inventory )       | Deplete goods or services stock without ever completing the purchase or committing to the transaction.                     |
+| [OAT-015 Denial of Service](OAT-015_Denial_of_Service )           | Target resources of the application and database servers, or individual user accounts, to achieve denial of service (DoS). |
+| [OAT-006 Expediting](OAT-006_Expediting )                         | Perform actions to hasten progress of usually slow, tedious or time-consuming actions.                                     |
+| [OAT-004 Fingerprinting](OAT-004_Fingerprinting )                 | Elicit information about the supporting software and framework types and versions.                                         |
+| [OAT-018 Footprinting](OAT-018_Footprinting )                     | Probe and explore application to identify its constituents and properties.                                                 |
+| [OAT-005 Scalping](OAT-005_Scalping )                             | Obtain limited-availability and/or preferred goods/services by unfair methods.                                             |
+| [OAT-011 Scraping](OAT-011_Scraping )                             | Collect application content and/or other data for use elsewhere.                                                           |
+| [OAT-016 Skewing](OAT-016_Skewing )                               | Repeated link clicks, page requests or form submissions intended to alter some metric.                                     |
+| [OAT-013 Sniping](OAT-013_Sniping )                               | Last minute bid or offer for goods or services.                                                                            |
+| [OAT-017 Spamming](OAT-017_Spamming )                             | Malicious or questionable information addition that appears in public or private content, databases or user messages.      |
+| [OAT-002 Token Cracking](OAT-002_Token_Cracking )                 | Mass enumeration of coupon numbers, voucher codes, discount tokens, etc.                                                   |
+| [OAT-014 Vulnerability Scanning](OAT-014_Vulnerability_Scanning ) | Crawl and fuzz application to identify weaknesses and possible vulnerabilities.                                            |
 
 ## Comparison with other dictionaries, taxonomies and lists
 
@@ -441,7 +441,7 @@ software. Its primary classification structures are:
 The WASC Threat Classification classifies weaknesses and attacks that
 can lead to the compromise of a website, its data, or its users.
 
-### [OWASP WASC Web Hacking Incidents Database Project](OWASP_WASC_Web_Hacking_Incidents_Database_Project "wikilink") (WHID)
+### [OWASP WASC Web Hacking Incidents Database Project](OWASP_WASC_Web_Hacking_Incidents_Database_Project ) (WHID)
 
 WHID
 [classifies](https://www.google.com/fusiontables/DataSource?snapid=S1536501YnLo)
@@ -930,7 +930,7 @@ Digital Media Services in 2016 and Distil Networks in 2017, which has
 already contributed to the v1.2 production design costs, and will also
 be utilised to help promote knowledge of the project.
 
-[size=150x45px](file:Verizon_Digital_Medial_Logo.jpg "wikilink")
+[size=150x45px](file:Verizon_Digital_Medial_Logo.jpg )
 
 ![Distil-flat-logo-2.png](Distil-flat-logo-2.png
 "Distil-flat-logo-2.png")
@@ -1045,10 +1045,10 @@ The project's roadmap was updated in October 2017.
 
 __NOTOC__ <headertabs />
 
-[Category:OWASP Project](Category:OWASP_Project "wikilink")
-[Category:OWASP_Builders](Category:OWASP_Builders "wikilink")
-[Category:OWASP_Defenders](Category:OWASP_Defenders "wikilink")
-[Category:OWASP_Document](Category:OWASP_Document "wikilink")
-[Category:SAMM-SR-2](Category:SAMM-SR-2 "wikilink")
-[Category:SAMM-TA-1](Category:SAMM-TA-1 "wikilink")
-[Category:SAMM-EG-2](Category:SAMM-EG-2 "wikilink")
+[Category:OWASP Project](Category:OWASP_Project )
+[Category:OWASP_Builders](Category:OWASP_Builders )
+[Category:OWASP_Defenders](Category:OWASP_Defenders )
+[Category:OWASP_Document](Category:OWASP_Document )
+[Category:SAMM-SR-2](Category:SAMM-SR-2 )
+[Category:SAMM-TA-1](Category:SAMM-TA-1 )
+[Category:SAMM-EG-2](Category:SAMM-EG-2 )
