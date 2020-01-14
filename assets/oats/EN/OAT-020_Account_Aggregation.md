@@ -40,7 +40,8 @@ Aggregator; Brokering; Client aggregator; Cloud services brokerage; Data aggrega
 ### CAPEC Category / Attack Pattern IDs
 * 167 Lifting Sensitive Data from the Client
 * 210 Abuse of Functionality
-* CWE Base / Class / Variant IDs
+
+### CWE Base / Class / Variant IDs
 * 799 Improper Control of Interaction Frequency
 
 ### WASC Threat IDs
@@ -50,4 +51,4 @@ Aggregator; Brokering; Client aggregator; Cloud services brokerage; Data aggrega
 ### OWASP Attack Category / Attack IDs
 * Abuse of Functionality
 
-<br/><br/><br/>Return to [OWASP Automated Threats to Web Applications Project](../../../).
+<br/><br/>Return to [OWASP Automated Threats to Web Applications Project](../../../).<br/><br/>
