@@ -1,11 +1,28 @@
-<!--### Project Information
-* Project Level
-* Project Type
-* Version, etc
+### Quick Links
+* [Download the free handbook as a PDF]()
 
-### Downloads or Social Links
-* [Download](#)
-* [Social Link](#)
+### What Is This?
+* Information and resources to help web application owners defend against automated threats
 
-### Code Repository
-* [repo](#)-->
+### What Isn't It?
+* Not another vulnerability list
+* Not an OWASP Top N List
+* Not threat modelling
+* Not attack trees
+* Not non web
+* Not non application
+
+### Project Information
+
+* <i class="fas fa-flask" style="font-size: 1.2em; color:#FFA500;"></i><span style="font-size:1.0em;padding-left:12px;">Lab Project</span>
+* <i class="fas fa-book" style="font-size: 1.2em; color:#233e81;"></i><span style="font-size:1.0em;padding-left:12px;">Documentation</span>
+* <i class="fas fa-tools" style="font-size: 1.2em; color:#233e81;"></i><span style="font-size:1.0em;padding-left:12px;">Builder</span> 
+* <i class="fas fa-shield-alt" style="font-size: 1.2em; color:#233e81;"></i><span style="font-size:1.0em;padding-left:12px;">Defender</span>
+
+### In Print
+* [![Cover image of the OWASP Automated Threat Handbook](assets/images/automatedThreatHandbook_small.jpg)](http://www.lulu.com/shop/owasp-foundation/automated-threat-handbook/paperback/product-23540699.html)
+* The Automated Threat Handbook can be purchased at cost as a [print-on-demand book](http://www.lulu.com/shop/owasp-foundation/automated-threat-handbook/paperback/product-23540699.html).
+
+### License
+
+* [![CC BY-SA 3.0](https://licensebuttons.net/l/by-sa/3.0/80x15.png)](http://creativecommons.org/licenses/by-sa/3.0/)
