@@ -1,5 +1,5 @@
 ### Quick Links
-* [Download the free handbook as a PDF]()
+* [Download the free handbook as a PDF](https://github.com/OWASP/www-project-automated-threats-to-web-applications/tree/master/assets/files/EN) or [buy a print copy](http://www.lulu.com/shop/owasp-foundation/automated-threat-handbook/paperback/product-23540699.html)
 
 ### What Is This?
 * Information and resources to help web application owners defend against automated threats
