@@ -1,56 +1,58 @@
 ---
 
 layout: col-sidebar
-title: OWASP Automated Threats To Web Applications
-tags: example-tag
-level: 0
+title: OWASP Automated Thteats to Web Applications
+site_side: true
+tags: oat
+project: true
+level: 3
 type: documentation
-
-auto-migrated: 1
-auto-migrated: 1
-
-auto-migrated: 1
 
 ---
 
+[![OWASP Lab](https://img.shields.io/badge/owasp-lab%20project-yellow.svg)](/projects)
 
-<!-- Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+![OWASP automated threats mind amp](assets/images/automated-threats-header.jpg)
 
-{front matter for this file}
+The OWASP Automated Threats to Web Applications Project has completed a review of reports, academic and other papers, news stories and vulnerability taxonomies/listings to identify, name and classify these scenarios – automated by software causing a divergence from accepted behavior producing one or more undesirable effects on a web application, but excluding tool-based exploitation of single-issue vulnerabilities. The initial objective was to produce an ontology providing a common language for developers, architects, operators, business owners, security engineers, purchasers and suppliers/ vendors, to facilitate clear communication and help tackle the issues. The project also identifies symptoms, mitigations and controls in this problem area. Like all OWASP outputs, everything is free and published using an open source license.
 
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
+## Description
 
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
-## Welcome
-Include some information here about your chapter
+Web applications are subjected to unwanted automated usage – day in, day out. Often these events relate to misuse of inherent valid functionality, rather than the attempted exploitation of unmitigated vulnerabilities. Also, excessive misuse is commonly mistakenly reported as application denial-of-service (DoS) like HTTP-flooding, when in fact the DoS is a side-effect instead of the primary intent. Frequently these have sector-specific names. Most of these problems seen regularly by web application owners are not listed in any OWASP Top Ten or other top issue list. Furthermore, they are not enumerated or defined adequately in existing dictionaries. These factors have contributed to inadequate visibility, and an inconsistency in naming such threats, with a consequent lack of clarity in attempts to address the issues.
 
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+Without sharing a common language between devops, architects, business owners, security engineers, purchasers and suppliers/vendors, everyone has to make extra effort to communicate clearly. Misunderstandings can be costly. The adverse impacts affect the privacy and security of individuals as well as the security of the applications and related system components.
 
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
+## Automated Threats
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
+The list of threat events, defined more fully in the [OWASP Automated Threat Handbook](https://github.com/OWASP/www-project-automated-threats-to-web-applications/tree/master/assets/files/EN), is alphabetically:
 
-## Local News
-- Meeting Location
-- Everyone is welcome to join us at our chapter meetings.
+* OAT-020 Account Aggregation
+* OAT-019 Account Creation
+* OAT-003 Ad Fraud
+* OAT-009 CAPTCHA Defeat
+* OAT-010 Card Cracking
+* OAT-001 Carding
+* OAT-012 Cashing Out
+* OAT-007 Credential Cracking
+* OAT-008 Credential Stuffing
+* OAT-021 Denial of Inventory
+* OAT-015 Denial of Service
+* OAT-006 Expediting
+* OAT-004 Fingerprinting
+* OAT-018 Footprinting
+* OAT-005 Scalping
+* OAT-011 Scraping
+* OAT-016 Skewing
+* OAT-013 Sniping
+* OAT-017 Spamming
+* OAT-002 Token Cracking
+* OAT-014 Vulnerability Scanning
 
-```
-{info.md}
+Not sure which is which? Use the [threat identification chart](assets/files/oat-ontology-decision-chart.pdf) in conjunction with the [full handbook](https://github.com/OWASP/www-project-automated-threats-to-web-applications/tree/master/assets/files/EN).
 
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
+## Licensing
 
-{leaders.md}
+All the materials are free to use. They are licensed under the [Creative Commons Attribution-ShareAlike 3.0 license](http://creativecommons.org/licenses/by-sa/3.0/), so you can copy, distribute and transmit the work, and you can adapt it, and use it commercially, but all provided that you attribute the work and if you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.
 
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
+© OWASP Foundation
 
--->
