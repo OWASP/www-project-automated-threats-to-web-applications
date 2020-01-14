@@ -26,7 +26,7 @@ Without sharing a common language between devops, architects, business owners, s
 
 The list of threat events, defined more fully in the [OWASP Automated Threat Handbook](https://github.com/OWASP/www-project-automated-threats-to-web-applications/tree/master/assets/files/EN), is alphabetically:
 
-* OAT-020 Account Aggregation
+* [OAT-020 Account Aggregation](assets/oats/EN/OAT-020_Account_Aggregation.html
 * OAT-019 Account Creation
 * OAT-003 Ad Fraud
 * OAT-009 CAPTCHA Defeat
