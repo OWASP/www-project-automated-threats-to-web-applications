@@ -11,7 +11,7 @@ project: true
 This is an automated threat. The OWASP Automated Threat Handbook - Web Applications ([pdf](https://github.com/OWASP/www-project-automated-threats-to-web-applications/tree/master/assets/files/EN), [print](http://www.lulu.com/shop/owasp-foundation/automated-threat-handbook/paperback/product-23540699.html)), an output of the [OWASP Automated Threats to Web Applications Project](../../../), provides a fuller guide to each threat, detection methods and countermeasures. The [threat identification chart](https://www2.owasp.org/www-project-automated-threats-to-web-applications/assets/files/oat-ontology-decision-chart.pdf) helps to correctly identify the automated threat.
 
 ## Definition
-###OWASP Automated Threat (OAT) Identity Number
+### OWASP Automated Threat (OAT) Identity Number
 OAT-020
 
 ### Threat Event Name
@@ -50,3 +50,4 @@ Aggregator; Brokering; Client aggregator; Cloud services brokerage; Data aggrega
 ### OWASP Attack Category / Attack IDs
 * Abuse of Functionality
 
+<br/><br/><br/>Return to [OWASP Automated Threats to Web Applications Project](../../../).
