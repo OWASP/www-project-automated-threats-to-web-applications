@@ -122,7 +122,7 @@ The following academic, open source, commercial and news sources were used in th
 * Q4 2014 State of the Internet Security Report prolexic http://www.stateoftheinternet.com/downloads/pdfs/2014-internet-security-report-q4.pdf
 * Reflection injection http://cybersecurity.ieee.org/images/files/images/pdf/CybersecurityInitiative-online.pdf
 * A Report on taxonomy and evaluation of existing inventories, ENISAhttp://ecrime-project.eu/wp-content/uploads/2015/02/E-Crime-Deliverable-2-1-20141128_FINAL.pdf
-* * Reporting Intellectual Property Crime: A Guide for Victims of Copyright Infringement, Trademark Counterfeiting, and Trade Secret Theft, Dept of Justice http://www.justice.gov/criminal/cybercrime/docs/ip-victim-guide-and-checklist-march-2013.pdf
+* Reporting Intellectual Property Crime: A Guide for Victims of Copyright Infringement, Trademark Counterfeiting, and Trade Secret Theft, Dept of Justice http://www.justice.gov/criminal/cybercrime/docs/ip-victim-guide-and-checklist-march-2013.pdf
 * SANS Top 20 Critical Controls https://www.sans.org/critical-security-controls/
 * Securing Websites, Sophos, 2011 http://www.sophos.com/en-us/why-sophos/our-people/technical-papers/securing-websites.aspx
 * Security Insights: Defending Against Automated Threats http://www.securityweek.com/security-insights-defending-against-automated-threats
