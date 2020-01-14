@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Automated Thteats to Web Applications
+title: OWASP Automated Threats to Web Applications
 site_side: true
 tags: oat
 project: true
