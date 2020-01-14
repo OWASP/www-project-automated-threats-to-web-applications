@@ -13,8 +13,8 @@ tags: oat
 
 The A-Z list of automated threat events and summary descriptions, defined in full in the [OWASP Automated Threat Handbook](https://github.com/OWASP/www-project-automated-threats-to-web-applications/tree/master/assets/files/EN), is:
 
-Identity | OAT Name | Summary Defining Characteristics
---------------------|-----------------------------------
+Identifier | OAT Name | Summary Defining Characteristics
+---------|----------|-----------------------------------
 [OAT-020](assets/oats/EN/OAT-020_Account_Aggregation.html) | Account Aggregation | Use by an intermediary application that collects together multiple accounts and interacts on their behalf
 [OAT-019](assets/oats/EN/OAT-019_Account_Creation.html) | Account Creation | Create multiple accounts for subsequent misuse
 [OAT-003](assets/oats/EN/OAT-003_Ad_Fraud.html) | Ad Fraud | False clicks and fraudulent display of web-placed advertisements
@@ -28,7 +28,7 @@ Identity | OAT Name | Summary Defining Characteristics
 [OAT-015](assets/oats/EN/OAT-015_Denial_of_Service.html) | Denial of Service | Target resources of the application and database servers, or individual user accounts, to achieve denial of service (DoS)
 [OAT-006](assets/oats/EN/OAT-006_Expediting.html) | Expediting | Perform actions to hasten progress of usually slow, tedious or time-consuming actions
 [OAT-004](assets/oats/EN/OAT-004_Fingerprinting.html) | Fingerprinting | Elicit information about the supporting software and framework types and versions
-[OAT-018](assets/oats/EN/OAT-018_Footprinting.html) | Footprinting Probe and explore application to identify its constituents and properties
+[OAT-018](assets/oats/EN/OAT-018_Footprinting.html) | Footprinting | Probe and explore application to identify its constituents and properties
 [OAT-005](assets/oats/EN/OAT-005_Scalping.html) | Scalping | Obtain limited-availability and/or preferred goods/services by unfair methods
 [OAT-011](assets/oats/EN/OAT-011_Scraping.html) | Scraping | Collect application content and/or other data for use elsewhere
 [OAT-016](assets/oats/EN/OAT-016_Skewing.html) | Skewing | Repeated link clicks, page requests or form submissions intended to alter some metric
