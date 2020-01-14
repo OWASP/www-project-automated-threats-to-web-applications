@@ -36,6 +36,7 @@ Identifier | OAT Name | Summary Defining Characteristics
 [OAT-017](assets/oats/EN/OAT-017_Spamming.html) | Spamming | Malicious or questionable information addition that appears in public or private content, databases or user messages
 [OAT-002](assets/oats/EN/OAT-002_Token_Cracking.html) | Token Cracking | Mass enumeration of coupon numbers, voucher codes, discount tokens, etc
 [OAT-014](assets/oats/EN/OAT-014_Vulnerability_Scanning.html) | Vulnerability Scanning | Crawl and fuzz application to identify weaknesses and possible vulnerabilities
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp; | &nbsp;
 
 ### Comparison with other dictionaries, taxonomies and lists
 
