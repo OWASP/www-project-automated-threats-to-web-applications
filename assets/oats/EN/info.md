@@ -1,4 +1,4 @@
-### OWASP Automated Threat Pages
+### OWASP Automated Threats
 
 * [OAT-020 Account Aggregation](OAT-020_Account_Aggregation.html)
 * [OAT-019 Account Creation](OAT-019_Account_Creation.html)
@@ -22,4 +22,4 @@
 * [OAT-002 Token Cracking](OAT-002_Token_Cracking.html)
 * [OAT-014 Vulnerability Scanning](OAT-014_Vulnerability_Scanning.html)
 
-Return to [OWASP Automated Threats to Web Applications](../../../) project home page.
+See also [OWASP Automated Threats to Web Applications Project](../../../).
