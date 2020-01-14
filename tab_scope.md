@@ -50,6 +50,8 @@ The first three specifications for Web technologies defined URLs, HTTP, and HTML
 #### Web application
 An application delivered over the web
 
+<br/><br/>
+
 Glossary references:
 1. [Risk Taxonomy, Technical Standard, The Open Group, 2009](http://pubs.opengroup.org/onlinepubs/9699919899/toc.pdf)
 1. [NISTIR 7298 rev 2, NIST](http://nvlpubs.nist.gov/nistpubs/ir/2013/NIST.IR.7298r2.pdf)
