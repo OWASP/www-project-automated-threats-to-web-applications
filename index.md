@@ -27,26 +27,26 @@ Without sharing a common language between devops, architects, business owners, s
 The list of threat events, defined more fully in the [OWASP Automated Threat Handbook](https://github.com/OWASP/www-project-automated-threats-to-web-applications/tree/master/assets/files/EN), is alphabetically:
 
 * [OAT-020 Account Aggregation](assets/oats/EN/OAT-020_Account_Aggregation.html)
-* OAT-019 Account Creation
-* OAT-003 Ad Fraud
-* OAT-009 CAPTCHA Defeat
-* OAT-010 Card Cracking
-* OAT-001 Carding
-* OAT-012 Cashing Out
-* OAT-007 Credential Cracking
-* OAT-008 Credential Stuffing
-* OAT-021 Denial of Inventory
-* OAT-015 Denial of Service
-* OAT-006 Expediting
-* OAT-004 Fingerprinting
-* OAT-018 Footprinting
-* OAT-005 Scalping
-* OAT-011 Scraping
-* OAT-016 Skewing
-* OAT-013 Sniping
-* OAT-017 Spamming
-* OAT-002 Token Cracking
-* OAT-014 Vulnerability Scanning
+* [OAT-019 Account Creation](assets/oats/EN/OAT-019_Account_Creation.html)
+* [OAT-003 Ad Fraud](assets/oats/EN/OAT-003_Ad_Fraud.html)
+* [OAT-009 CAPTCHA Defeat](assets/oats/EN/OAT-009_CAPTCHA_Defeat.html)
+* [OAT-010 Card Cracking](assets/oats/EN/OAT-010_Card_Cracking.html)
+* [OAT-001 Carding](assets/oats/EN/OAT-001_Carding.html)
+* [OAT-012 Cashing Out](assets/oats/EN/OAT-012_Cashing_Out.html)
+* [OAT-007 Credential Cracking](assets/oats/EN/OAT-007_Credential_Cracking.html)
+* [OAT-008 Credential Stuffing](assets/oats/EN/OAT-008_Credential_Stuffing.html)
+* [OAT-021 Denial of Inventory](assets/oats/EN/OAT-021_Denial_of_Inventory.html)
+* [OAT-015 Denial of Service](assets/oats/EN/OAT-015_Denial_of_Service.html)
+* [OAT-006 Expediting](assets/oats/EN/OAT-006_Expediting.html)
+* [OAT-004 Fingerprinting](assets/oats/EN/OAT-004_Fingerprinting.html)
+* [OAT-018 Footprinting](assets/oats/EN/OAT-018_Footprinting.html)
+* [OAT-005 Scalping](assets/oats/EN/OAT-005_Scalping.html)
+* [OAT-011 Scraping](assets/oats/EN/OAT-011_Scraping.html)
+* [OAT-016 Skewing](assets/oats/EN/OAT-016_Skewing.html)
+* [OAT-013 Sniping](assets/oats/EN/OAT-013_Sniping.html)
+* [OAT-017 Spamming](assets/oats/EN/OAT-017_Spamming.html)
+* [OAT-002 Token Cracking](assets/oats/EN/OAT-002_Token_Cracking.html)
+* [OAT-014 Vulnerability Scanning](assets/oats/EN/OAT-014_Vulnerability_Scanning.html)
 
 Not sure which is which? Use the [threat identification chart](assets/files/oat-ontology-decision-chart.pdf) in conjunction with the [full handbook](https://github.com/OWASP/www-project-automated-threats-to-web-applications/tree/master/assets/files/EN).
 
