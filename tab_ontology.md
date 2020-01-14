@@ -28,8 +28,7 @@ OAT Identity / Name | Summary Defining Characteristics
 [OAT-015 Denial of Service](assets/oats/EN/OAT-015_Denial_of_Service.html) | Target resources of the application and database servers, or individual user accounts, to achieve denial of service (DoS)
 [OAT-006 Expediting](assets/oats/EN/OAT-006_Expediting.html) | Perform actions to hasten progress of usually slow, tedious or time-consuming actions
 [OAT-004 Fingerprinting](assets/oats/EN/OAT-004_Fingerprinting.html) | Elicit information about the supporting software and framework types and versions
-[OAT-018 Footprinting](assets/oats/EN/OAT-018_Footprinting.html) | 	
-Probe and explore application to identify its constituents and properties
+[OAT-018 Footprinting](assets/oats/EN/OAT-018_Footprinting.html) | Probe and explore application to identify its constituents and properties
 [OAT-005 Scalping](assets/oats/EN/OAT-005_Scalping.html) | Obtain limited-availability and/or preferred goods/services by unfair methods
 [OAT-011 Scraping](assets/oats/EN/OAT-011_Scraping.html) | Collect application content and/or other data for use elsewhere
 [OAT-016 Skewing](assets/oats/EN/OAT-016_Skewing.html) | Repeated link clicks, page requests or form submissions intended to alter some metric
@@ -51,7 +50,7 @@ CAPEC is a dictionary and classification taxonomy of known attacks on software. 
 
 #### [WASC Threat Classification](http://projects.webappsec.org/w/page/13246978/Threat%20Classification)
 
-![Venn diagram showing OWASP Autoamted Threats (OATs) from WASC point of view](assets/images/Ontology-chart-wasc-wiki.png]
+![Venn diagram showing OWASP Autoamted Threats (OATs) from WASC point of view](assets/images/Ontology-chart-wasc-wiki.png)
 
 The WASC Threat Classification classifies weaknesses and attacks that can lead to the compromise of a website, its data, or its users.
 
