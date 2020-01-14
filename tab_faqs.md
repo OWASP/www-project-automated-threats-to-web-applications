@@ -10,7 +10,7 @@ tags: oat
 ## Frequently Asked Questions
 
 ### What do you mean by "web", "application" and "automated threat"?
-See the definitions in the project's glossary.
+See the definitions in the project's [glossary](/www-project-automated-threats-to-web-applications#div-scope).
 
 ### What is an "ontology"?
 An ontology is a set of types, properties, and relationship. These together define a subject description language. This particular ontology is meant to represent what automated threats real world owners observe affecting their web applications in usual operations.
