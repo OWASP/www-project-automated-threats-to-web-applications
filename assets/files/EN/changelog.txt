@@ -1,0 +1,32 @@
+# OWASP Automated Threats to Web Applications - EN
+# Change Log
+============================================
+
+## Unreleased
+
+
+## v1.2 - 16 February 2018	
+- OAT-021 Denial of Inventory added
+- OAT-009 CAPTCHA Bypass has been renamed OAT-009 CAPTCHA Defeat
+- Minor additions, changes and corrections
+
+## v1.1 - 03 November 2016
+- Countermeasures added, minor corrections, and readability improvements
+
+## v1.01 - 23 October 2015
+- Minor corrections
+
+## v1.00 - 30 July 2015
+- Final release
+
+## v0.76 - 16 July 2015
+- DRAFT
+
+## v0.74 - 09 July 2015 
+- DRAFT
+
+## v0.73 - 08 July 2015
+- DRAFT
+
+## v0.72 - 08 July 2015
+- DRAFT
