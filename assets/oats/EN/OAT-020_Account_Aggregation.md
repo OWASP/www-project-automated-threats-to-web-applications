@@ -23,6 +23,8 @@ Use by an intermediary application that collects together multiple accounts and 
 ### Indicative Diagram
 ![Indicative diagram for OAT-020](images/500px-OAT-020_Account_Aggregation.png)
 
+<img alt="Indicative diagram for OAT-020" src="images/500px-OAT-020_Account_Aggregation.png" style="background-color:red;padding:2em;">
+
 ### Description
 Compilation of credentials and information from multiple application accounts into another system. This aggregation application may be used by a single user to merge information from multiple applications, or alternatively to merge information of many users of a single application. Commonly used for aggregating social media accounts, email accounts and financial accounts in order to obtain a consolidated overview, to provide integrated reporting and analysis, and to simplify usage and consumption by the user and/or their professional advisors. May include making changes to account properties and interacting with the aggregated application's functionality.
 
