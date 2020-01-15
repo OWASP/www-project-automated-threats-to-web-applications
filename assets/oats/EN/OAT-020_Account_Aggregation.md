@@ -21,8 +21,6 @@ Account Aggregation
 Use by an intermediary application that collects together multiple accounts and interacts on their behalf.
 
 ### Indicative Diagram
-![Indicative diagram for OAT-020](images/500px-OAT-020_Account_Aggregation.png)
-
 <img alt="Indicative diagram for OAT-020" src="images/500px-OAT-020_Account_Aggregation.png" style="background-color:#eeeeee;padding:1em;">
 
 ### Description
