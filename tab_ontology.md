@@ -55,7 +55,7 @@ CAPEC is a dictionary and classification taxonomy of known attacks on software. 
 
 The WASC Threat Classification classifies weaknesses and attacks that can lead to the compromise of a website, its data, or its users.
 
-#### [OWASP WASC Web Hacking Incidents Database Project](https://www.owasp.org/index.php/OWASP_WASC_Web_Hacking_Incidents_Database_Project) (WHID)
+#### [OWASP WASC Web Hacking Incidents Database Project](https://wiki.owasp.org/index.php/OWASP_WASC_Web_Hacking_Incidents_Database_Project) (WHID)
 
 WHID classifies publicly known incidents using:
 
