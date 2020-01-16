@@ -21,7 +21,7 @@ Denial of Inventory
 Deplete goods or services stock without ever completing the purchase or committing to the transaction.
 
 ### Indicative Diagram
-<img alt="Indicative diagram for OAT-021" src="images/500px-OAT-020_Denial_of_Inventory.png" style="background-color:#eeeeee;padding:1em;">
+<img alt="Indicative diagram for OAT-021" src="images/500px-OAT-021_Denial_of_Inventory.png" style="background-color:#eeeeee;padding:1em;">
 
 ### Description
 Selection and holding of items from a limited inventory or stock, but which are never actually bought, or paid for, or confirmed, such that other users are unable to buy/pay/confirm the items themselves. It differs from [OAT-005 Scalping](OAT-005_Scalping.html) in that the goods or services are never actually acquired by the attacker.
