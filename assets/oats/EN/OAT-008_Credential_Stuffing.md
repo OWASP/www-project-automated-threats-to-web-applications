@@ -26,14 +26,14 @@ Mass log in attempts used to verify the validity of stolen username/password pai
 ### Description
 Lists of authentication credentials stolen from elsewhere are tested against the application’s authentication mechanisms to identify whether users have re-used the same login credentials. The stolen usernames (often email addresses) and password pairs could have been sourced directly from another application by the attacker, purchased in a criminal marketplace, or obtained from publicly available breach data dumps.
 
-Unlike [OAT-007 Credential Cracking](AT-007_Credential_Cracking.html), Credential Stuffing does not involve any brute-forcing or guessing of values; instead credentials used in other applications are being tested for validity.
+Unlike [OAT-007 Credential Cracking](OAT-007_Credential_Cracking.html), Credential Stuffing does not involve any brute-forcing or guessing of values; instead credentials used in other applications are being tested for validity.
 
 
 ### Other Names and Examples
 Account checker attack; Account checking; Account takeover; Account takeover attack; Login Stuffing; Password list attack; Password re-use; Stolen credentials; Use of stolen credentials
 
 ### See Also
-* [OAT-007 Credential Cracking](AT-007_Credential_Cracking.html)
+* [OAT-007 Credential Cracking](OAT-007_Credential_Cracking.html)
 * [OAT-019 Account Creation](OAT-019_Account_Creation.html)
 
 ## Cross-References
