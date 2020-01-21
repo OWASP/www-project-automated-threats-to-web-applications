@@ -30,7 +30,7 @@ The use of stolen credential sets (paired username and passwords) to authenticat
 
 
 ### Other Names and Examples
-
+Brute-force attacks against sign-in; Brute forcing log-in credentials; Brute-force password cracking; Cracking login credentials; Password brute-forcing; Password cracking; Reverse brute force attack; Username cracking; Username enumeration
 
 ### See Also
 * [OAT-002 Token Cracking](OAT-002_Token_Cracking.html)
