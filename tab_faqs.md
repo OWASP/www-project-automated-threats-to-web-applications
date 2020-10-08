@@ -28,7 +28,7 @@ We found that it did not exist. While many threats are mentioned in the sources 
 It is our abbreviation for OWASP Automated Threat (OAT).
 
 ### I am confused and don't know which OAT my problem is - how do I identify it?
-In 2017 we created a [threat identification chart](https://www2.owasp.org/www-project-automated-threats-to-web-applications/assets/files/oat-ontology-decision-chart.pdf) to help identify the correct OAT, which can then be confirmed by reading the full description in the [handbook](https://github.com/OWASP/www-project-automated-threats-to-web-applications/tree/master/assets/files/EN). The short summaries are important explanations of each OAT name.
+In 2017 we created a [threat identification chart](https://www.owasp.org/www-project-automated-threats-to-web-applications/assets/files/oat-ontology-decision-chart.pdf) to help identify the correct OAT, which can then be confirmed by reading the full description in the [handbook](https://github.com/OWASP/www-project-automated-threats-to-web-applications/tree/master/assets/files/EN). The short summaries are important explanations of each OAT name.
 
 ## How can I help?
 Please join our [Google Group](https://groups.google.com/a/owasp.org/forum/#!forum/automated-threats-project), send ideas, contribute clarifications, corrections and improvement, and let other people know about the project and its handbook.
