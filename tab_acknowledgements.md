@@ -14,6 +14,7 @@ tags: oat
 * Jason Chan
 * Mark Hall
 * Omri Iluz
+* José Santos Martins Pereira
 * Andrew van der Stock
 * Roland Weber
 * [Colin Watson](mailto:colin.watson@owasp.org)
