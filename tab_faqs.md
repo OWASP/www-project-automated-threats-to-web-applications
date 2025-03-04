@@ -9,6 +9,9 @@ tags: oat
 
 ## Frequently Asked Questions
 
+### When will it be updaated next?
+A new edition is in progress and will be published in April-May 2025.
+
 ### What do you mean by "web", "application" and "automated threat"?
 See the definitions in the project's [glossary](/www-project-automated-threats-to-web-applications#div-scope).
 
