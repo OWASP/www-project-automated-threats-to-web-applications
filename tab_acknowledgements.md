@@ -18,6 +18,7 @@ tags: oat
 * Jarrod Overson
 * José Santos Martins Pereira
 * Andrew van der Stock
+* Frank Walsh
 * Roland Weber
 * [Colin Watson](mailto:colin.watson@owasp.org)
 * [Tin Zaw](mailto:tin.zaw@owasp.org)
