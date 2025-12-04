@@ -1,5 +1,7 @@
+![Cover image of the OWASP Automated Threat Handbook](assets/images/automatedThreatHandbook_small.jpg)
+
 ### Quick Links
-* [Download the free handbook as a PDF](https://github.com/OWASP/www-project-automated-threats-to-web-applications/tree/master/assets/files/EN) or [buy a print copy](http://www.lulu.com/shop/owasp-foundation/automated-threat-handbook/paperback/product-23540699.html)
+* [Download the free handbook as a PDF](https://github.com/OWASP/www-project-automated-threats-to-web-applications/tree/master/assets/files/EN) 
 
 ### What Is This?
 * Information and resources to help web application owners defend against automated threats
@@ -9,8 +11,8 @@
 * Not an OWASP Top N List
 * Not threat modelling
 * Not attack trees
-* Not non web
-* Not non application
+* Not non-web
+* Not non-application
 
 ### Project Objective
 
@@ -25,10 +27,6 @@ This project brings together research and analysis of real world automated attac
 
 ### Presentation
 * [![Title slide of presentation](assets/images/automatedthreats-presentation-small.jpg)](assets/files/Bots-AppSecUSA2017-Project-Summit.pptx)
-
-### In Print
-* [![Cover image of the OWASP Automated Threat Handbook](assets/images/automatedThreatHandbook_small.jpg)](http://www.lulu.com/shop/owasp-foundation/automated-threat-handbook/paperback/product-23540699.html)
-* The Automated Threat Handbook can be purchased at cost as a [print-on-demand book](http://www.lulu.com/shop/owasp-foundation/automated-threat-handbook/paperback/product-23540699.html).
 
 ### License
 
