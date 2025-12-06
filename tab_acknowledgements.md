@@ -16,7 +16,7 @@ tags: oat
 * Mark Hall
 * Omri Iluz
 * José Santos Martins Pereira
-* Shunji Matsuzawaz
+* Shunji Matsuzawa
 * Jarrod Overson
 * Andrew van der Stock
 * Frank Walsh
