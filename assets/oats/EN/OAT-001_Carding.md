@@ -18,7 +18,7 @@ OAT-001
 Carding
 
 ### Summary Defining Characteristics
-Multiple payment authorisation attempts used to verify the validity of bulk stolen payment card data.
+Multiple payment authorisation attempts to verify the validity of bulk stolen payment card data.
 
 ### Indicative Diagram
 <img alt="Indicative diagram for OAT-001" src="images/500px-OAT-001_Carding.png" style="background-color:#eeeeee;padding:1em;">
@@ -37,7 +37,7 @@ Card stuffing; Credit card stuffing; Card verification
 
 ## Cross-References
 ### CAPEC Category / Attack Pattern IDs
-* 210 Abuse of Functionality
+* 210 Abuse Existing Functionality
 
 ### CWE Base / Class / Variant IDs
 * 799 Improper Control of Interaction Frequency
