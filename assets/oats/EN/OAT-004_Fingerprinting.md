@@ -18,7 +18,7 @@ OAT-004
 Fingerprinting
 
 ### Summary Defining Characteristics
-Elicit information about the supporting so ware and framework types and versions.
+Elicit information about the supporting software and framework types and versions.
 
 ### Indicative Diagram
 <img alt="Indicative diagram for OAT-004" src="images/500px-OAT-004_Fingerprinting.png" style="background-color:#eeeeee;padding:1em;">
@@ -30,10 +30,11 @@ Fingerprinting seeks to identity application components, whereas [OAT-018 Footpr
 
 
 ### Other Names and Examples
-Google dorking; Google hacking; Shodaning; Target acquisition; Target scanning; Finding potentially vulnerable applications; Reconnaissance; URL harvesting; Web application fingerprinting
+Google dorking; Google hacking; Shodaning; Finding potentially vulnerable applications; Identifying vulnerable content management systems (CMS); Reconnaissance; Target acquisition; Target scanning; Web application fingerprinting
 
 ### See Also
 * [OAT-011 Scraping](OAT-011_Scraping.html)
+* [OAT-014 Vulnerability Scanning](OAT-014_Vulnerability_Scanning.html)
 * [OAT-018 Footprinting](OAT-018_Footprinting.html)
 
 ## Cross-References
@@ -42,7 +43,7 @@ Google dorking; Google hacking; Shodaning; Target acquisition; Target scanning; 
 * 170 Web Application Fingerprinting
 
 ### CWE Base / Class / Variant IDs
-* 200 Information Exposure
+* 200 Exposure of Sensitive Information to an Unauthorised Actor
 
 ### WASC Threat IDs
 * 45 Fingerprinting
