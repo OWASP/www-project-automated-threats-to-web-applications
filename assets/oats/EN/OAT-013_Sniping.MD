@@ -39,7 +39,7 @@ Auction sniping; Bid sniper; Front- running; Last look; Last minute bet; Timing 
 
 ## Cross-References
 ### CAPEC Category / Attack Pattern IDs
-* 210 Abuse of Functionality
+* 210 Abuse Existing Functionality
 
 ### CWE Base / Class / Variant IDs
 * -
