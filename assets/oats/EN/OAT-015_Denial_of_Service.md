@@ -18,13 +18,13 @@ OAT-015
 Denial of Service
 
 ### Summary Defining Characteristics
-Target resources of the application and database servers, or individual user accounts, to achieve denial of service (DoS).
+Target resources of the application and database servers, or accounts, to achieve denial of service (DoS).
 
 ### Indicative Diagram
 <img alt="Indicative diagram for OAT-015" src="images/500px-OAT-015_Denial_of_Service.png" style="background-color:#eeeeee;padding:1em;">
 
 ### Description
-Usage may resemble legitimate application usage, but leads to exhaustion of resources such as file system, memory, processes, threads, CPU, and human or financial resources. The resources might be related to web, application or databases servers or other services supporting the application, such as third party APIs, included third-party hosted content, or content delivery networks (CDNs). The application may be affected as a whole, or the attack may be against individual users such as account lockout.
+Usage may resemble legitimate application usage, but may lead to reduced performance (e.g. slow down, brownout) and eventual exhaustion of resources such as file system, memory, processes, threads, CPU, and human or financial resources. The resources might be related to web, application or databases servers or other services supporting the application, such as third party APIs, included third-party hosted content, or content delivery networks (CDNs). The application may be affected as a whole, or the attack may be against individual users such as account lockout.
 
 This ontology’s scope excludes other forms of denial of service that affect web applications, namely HTTP Flood DoS (GET, POST, Header with/without TLS), HTTP Slow DoS, IP layer 3 DoS, and TCP layer 4 DoS. Those protocol and lower layer aspects are covered adequately in other taxonomies and lists.
 
@@ -42,19 +42,19 @@ Account lockout; App layer DDoS; Asymmetric resource consumption (amplification)
 ### CAPEC Category / Attack Pattern IDs
 * 2 Inducing Account Lockout
 * 25 Forced Deadlock
-* 119 Deplete Resources
+* 488 HTTP Flood
 
 ### CWE Base / Class / Variant IDs
 * 399 Resource Management Errors
 * 645 Overly Restrictive Account Lockout Mechanism
+* 770 Allocation of Resources Without Limits or Throttling
 
 ### WASC Threat IDs
 * 10 Denial of Service
 
 ### OWASP Attack Category / Attack IDs
-* Account Lockout Attack
 * Cash Overflow
 * Denial of Service
-* Resource Depletion
+* Regular Expression Denial of Service
 
 <br/><br/>Return to [OWASP Automated Threats to Web Applications Project](../../../).<br/><br/>
