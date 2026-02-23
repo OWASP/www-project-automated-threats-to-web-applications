@@ -18,7 +18,7 @@ OAT-021
 Denial of Inventory
 
 ### Summary Defining Characteristics
-Deplete goods or services stock without ever completing the purchase or committing to the transaction.
+Deplete goods or services stock without completing the purchase or committing to the transaction.
 
 ### Indicative Diagram
 <img alt="Indicative diagram for OAT-021" src="images/500px-OAT-021_Denial_of_Inventory.png" style="background-color:#eeeeee;padding:1em;">
@@ -32,7 +32,7 @@ If server resources are reduced see [OAT-015 Denial of Service](OAT-015_Denial_o
 
 
 ### Other Names and Examples
-Hoarding; Hold all attack; Inventory depletion; Inventory exhaustion; Stock exhaustion
+Hoarding; Hold all attack; Inventory depletion; Inventory exhaustion; Inventory hoarding; Seat spinning; Stock exhaustion
 
 ### See Also
 * [OAT-005 Scalping](OAT-005_Scalping.html)
@@ -41,7 +41,7 @@ Hoarding; Hold all attack; Inventory depletion; Inventory exhaustion; Stock exha
 
 ## Cross-References
 ### CAPEC Category / Attack Pattern IDs
-* 210 Abuse of Functionality
+* 210 Abuse Existing Functionality
 
 ### CWE Base / Class / Variant IDs
 * 799 Improper Control of Interaction Frequency
