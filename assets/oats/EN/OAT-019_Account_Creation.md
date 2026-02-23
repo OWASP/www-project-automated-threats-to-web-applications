@@ -35,10 +35,11 @@ Account pharming; Fake account; Fake social media account creation; Impersonator
 ### See Also
 * [OAT-007 Credential Cracking](OAT-007_Credential_Cracking.html)
 * [OAT-008 Credential Stuffing](OAT-008_Credential_Stuffing.html)
+* [OAT-017 Spamming](OAT-017_Spamming.html)
 
 ## Cross-References
 ### CAPEC Category / Attack Pattern IDs
-* 210 Abuse of Functionality
+* 210 Abuse Existing Functionality
 
 ### CWE Base / Class / Variant IDs
 * 799 Improper Control of Interaction Frequency
