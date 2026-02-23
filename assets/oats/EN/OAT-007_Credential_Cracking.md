@@ -24,18 +24,19 @@ Identify valid login credentials by trying different values for usernames and/or
 <img alt="Indicative diagram for OAT-007" src="images/500px-OAT-007_Credential_Cracking.png" style="background-color:#eeeeee;padding:1em;">
 
 ### Description
-Brute force, dictionary (word list) and guessing attacks used against authentication processes of the application to identify valid account credentials. This may utilise common usernames or passwords, or involve initial username evaluation.
+Brute force, dictionary (word list) and guessing attacks used against authentication processes of the application to identify valid account credentials. This may utilise common usernames or passwords, or involve initial username evaluation. It may abuse functionality not always considered authentication directly, such as trying lists of email addresses to register for email subscriptions, on websites where usernames are email addresses.
 
-The use of stolen credential sets (paired username and passwords) to authenticate at one or more services is [OAT-008 Credential Stuffing](OAT-008_Credential_Stuffing.html).
+The use of stolen credential sets (paired username and passwords) to authenticate at one or more services is [OAT-008 Credential Stuffing](OAT-008_Credential_Stuffing.html). Use of processes simply to identify users (e.g. email addresses) for use elsewhere is [OAT-011 Scraping](OAT-011_Scraping.html).
 
 
 ### Other Names and Examples
-Brute-force attacks against sign-in; Brute forcing log-in credentials; Brute-force password cracking; Cracking login credentials; Password brute-forcing; Password cracking; Reverse brute force attack; Username cracking; Username enumeration
+Brute forcing log-in credentials; Brute-force password cracking; Cracking login credentials; Mailing list stuffing; Password brute-forcing; Password cracking; Password spraying; Reverse brute force attack; Username cracking; Username enumeration
 
 ### See Also
 * [OAT-002 Token Cracking](OAT-002_Token_Cracking.html)
 * [OAT-008 Credential Stuffing](OAT-008_Credential_Stuffing.html)
 * [OAT-019 Account Creation](OAT-019_Account_Creation.html)
+* [OAT-020 Account Aggregation](OAT-020_Account_Aggregation.html)
 
 ## Cross-References
 ### CAPEC Category / Attack Pattern IDs
@@ -43,7 +44,6 @@ Brute-force attacks against sign-in; Brute forcing log-in credentials; Brute-for
 * 49 Password Brute Forcing
 * 70 Try Common(default) Usernames and Passwords
 * 112 Brute Force
-
 
 ### CWE Base / Class / Variant IDs
 * 307 Improper Restriction of Excessive Authentication Attempts
@@ -56,7 +56,7 @@ Brute-force attacks against sign-in; Brute forcing log-in credentials; Brute-for
 * 42 Abuse of Functionality
 
 ### OWASP Attack Category / Attack IDs
-* Abuse of Functionality
 * Brute Force Attack
+* Password Spraying
 
 <br/><br/>Return to [OWASP Automated Threats to Web Applications Project](../../../).<br/><br/>
