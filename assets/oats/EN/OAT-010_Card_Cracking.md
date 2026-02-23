@@ -18,7 +18,7 @@ OAT-010
 Card Cracking
 
 ### Summary Defining Characteristics
-Identify missing start/expiry dates and security codes for stolen payment card data by trying different values.
+Identify missing start/expiry dates and security codes for stolen payment card data.
 
 ### Indicative Diagram
 <img alt="Indicative diagram for OAT-010" src="images/500px-OAT-010_Card_Cracking.png" style="background-color:#eeeeee;padding:1em;">
@@ -29,7 +29,7 @@ Brute force attack against application payment card processes to identify the mi
 When these values are known as well as the Primary Account Number (PAN), [OAT-001_Carding](OAT-001_Carding.html) is used to validate the details, and [OAT-012 Cashing Out](OAT-012_Cashing_Out.html) to obtain goods or cash.
 
 ### Other Names and Examples
-Brute forcing credit card information; Card brute forcing; Credit card cracking; Distributed guessing attack
+Brute forcing credit card information; Card brute forcing; Credit card cracking; Distributed guessing attack, PAN enumeration
 
 ### See Also
 * [OAT-001_Carding](OAT-001_Carding.html)
@@ -38,7 +38,7 @@ Brute forcing credit card information; Card brute forcing; Credit card cracking;
 ## Cross-References
 ### CAPEC Category / Attack Pattern IDs
 * 112 Brute Force
-* 210 Abuse of Functionality
+* 210 Abuse Existing Functionality
 
 ### CWE Base / Class / Variant IDs
 * 799 Improper Control of Interaction Frequency
