@@ -18,7 +18,7 @@ OAT-020
 Account Aggregation
 
 ### Summary Defining Characteristics
-Use by an intermediary application that collects together multiple accounts and interacts on their behalf.
+Use by an intermediary collecting together multiple accounts and interacting on their behalf.
 
 ### Indicative Diagram
 <img alt="Indicative diagram for OAT-020" src="images/500px-OAT-020_Account_Aggregation.png" style="background-color:#eeeeee;padding:1em;">
@@ -38,8 +38,7 @@ Aggregator; Brokering; Client aggregator; Cloud services brokerage; Data aggrega
 
 ## Cross-References
 ### CAPEC Category / Attack Pattern IDs
-* 167 Lifting Sensitive Data from the Client
-* 210 Abuse of Functionality
+* 210 Abuse Existing Functionality
 
 ### CWE Base / Class / Variant IDs
 * 799 Improper Control of Interaction Frequency
