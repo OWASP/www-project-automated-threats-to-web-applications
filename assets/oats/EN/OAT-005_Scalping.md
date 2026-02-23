@@ -26,10 +26,10 @@ Obtain limited-availability and/or preferred goods/services by unfair methods.
 ### Description
 Acquisition of goods or services using the application in a manner that a normal user would be unable to undertake manually.
 
-Although Scalping may include monitoring awaiting availability of the goods or services, and then rapid action to beat normal users to obtain these, Scalping is not a "last minute" action like [OAT-013 Sniping](OAT-013_Sniping.html), nor just related to automation on behalf of the user such as in [OAT-006 Expediting](OAT-006_Expediting.html). This is because Scalping includes the additional concept of limited availability of sought-after goods or services, and is most well known in the ticketing business where the tickets acquired are then resold later at a profit by the scalpers/touts. This can also lead to a type of user denial of service, since the goods or services become unavailable rapidly.
+Although Scalping may include monitoring awaiting availability of the goods or services, and then rapid action to beat normal users to obtain these, Scalping is not a "last minute" action like [OAT-013 Sniping](OAT-013_Sniping.html), nor just related to automation on behalf of the user such as in [OAT-006 Expediting](OAT-006_Expediting.html). This is because Scalping includes the additional concept of limited availability of sought-after or exclusive goods or services, and is most well known in the ticketing business where the tickets acquired are then resold later at a profit by the scalpers/touts. This can also lead to a type of user denial of service, since the goods or services become unavailable rapidly.
 
 ### Other Names and Examples
-Bulk purchase; Purchase automaton; Purchase bot; Restaurant table/hotel room reservation speed-booking; Queue jumping; Sale stampede; Secondary ticketing; Ticket resale; Ticket scalping; Ticket touting
+Bulk purchase; Grinch bot; Purchase automaton/bot; Queue jumping; Restaurant table/hotel room reservation speed-booking; Sale stampede; Secondary ticketing; Slot-booking bot; Sneaker bot; Ticket resale; Ticket scalping; Ticket touting; Vaccine bot
 
 ### See Also
 * [OAT-006 Expediting](OAT-006_Expediting.html)
@@ -39,7 +39,7 @@ Bulk purchase; Purchase automaton; Purchase bot; Restaurant table/hotel room res
 
 ## Cross-References
 ### CAPEC Category / Attack Pattern IDs
-* 210 Abuse of Functionality
+* 210 Abuse Existing Functionality
 
 ### CWE Base / Class / Variant IDs
 * 799 Improper Control of Interaction Frequency
