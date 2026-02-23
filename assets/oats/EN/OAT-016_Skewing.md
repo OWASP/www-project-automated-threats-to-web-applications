@@ -24,12 +24,12 @@ Repeated link clicks, page requests or form submissions intended to alter some m
 <img alt="Indicative diagram for OAT-016" src="images/500px-OAT-016_Skewing.png" style="background-color:#eeeeee;padding:1em;">
 
 ### Description
-Automated repeated clicking or requesting or submitting content, a ecting application-based metrics such as counts and measures of frequency and/or rate. The metric or measurement may be visible to users (e.g. betting odds, likes, market/ dynamic pricing, visitor count, poll results, reviews) or hidden (e.g. application usage statistics, business performance indicators). Metrics may affect individuals as well as the application owner, e.g. user reputation, influence others, gain fame, or undermine someone else's reputation.
+Automated repeated clicking or requesting or submitting content, a ecting application-based metrics such as counts and measures of frequency and/or rate, some of which may have wider societal meaning. The metric or measurement may be visible to users (e.g. betting odds, likes, market/ dynamic pricing, visitor count, poll results, reviews) or hidden (e.g. application usage statistics, business performance indicators). Metrics may affect individuals/organisations as well as the application owner, e.g. alter user reputation, amplify viewpoints, spread illegal content, influence others, gain fame, or undermine someone else's reputation.
 
-For malicious alteration of digital advertisement metrics, see [OAT-003 Ad Fraud](OAT-003_Ad_Fraud.html) instead.
+For malicious alteration of digital advertisement metrics, see [OAT-003 Ad Fraud](OAT-003_Ad_Fraud.html).
 
 ### Other Names and Examples
-Biasing KPIs; Boosting friends, visitors, and likes; Click fraud; Dynamic pricing hacking; Election fraud; Hit count fraud; Market distortion; Metric and statistic skewing; Page impression fraud; Poll fraud; Poll skewing; Poll/voting subversion; Rating/review skewing; SEO; Stock manipulation; Survey skewing
+AI bot; Analytics poisoning; Biasing KPIs; Boosting friends/likes; Click fraud; Dynamic pricing hacking; Election fraud; Hit count fraud; Market distortion; Metric and statistic skewing; Page impression fraud; Poll/rating/review fraud; SEO; Stock manipulation; Survey skewing; Synthetic social media influence
 
 ### See Also
 * [OAT-003 Ad Fraud](OAT-003_Ad_Fraud.html)
@@ -38,7 +38,7 @@ Biasing KPIs; Boosting friends, visitors, and likes; Click fraud; Dynamic pricin
 
 ## Cross-References
 ### CAPEC Category / Attack Pattern IDs
-* 210 Abuse of Functionality
+* 210 Abuse Existing Functionality
 
 ### CWE Base / Class / Variant IDs
 * 799 Improper Control of Interaction Frequency
