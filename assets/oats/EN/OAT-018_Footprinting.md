@@ -30,7 +30,7 @@ Footprinting can also include brute force, dictionary and guessing of file and d
 
 
 ### Other Names and Examples
-Application analysis; API discovery; Application enumeration; Automated scanning; CGI scanning; Crawler; Crawling; Excavation; Forced browsing; Forceful browsing; Fuzzing; Micro service discovery; Scanning; Spidering; WSDL scanning
+Application analysis; API discovery; Application enumeration; Automated scanning; CGI scanning; Crawler; Crawling; Excavation; Forced browsing; Forceful browsing; Fuzzing; Micro service discovery; Scanning; Spidering; URL harvesting; WSDL scanning
 
 ### See Also
 * [OAT-004 Fingerprinting](OAT-004_Fingerprinting.html)
@@ -47,6 +47,6 @@ Application analysis; API discovery; Application enumeration; Automated scanning
 * 45 Fingerprinting
 
 ### OWASP Attack Category / Attack IDs
-* -
+* Forced Browsing
 
 <br/><br/>Return to [OWASP Automated Threats to Web Applications Project](../../../).<br/><br/>
