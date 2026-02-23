@@ -39,7 +39,7 @@ Coupon guessing; Voucher, gift card and discount enumeration
 ## Cross-References
 ### CAPEC Category / Attack Pattern IDs
 * 112 Brute Force
-* 210 Abuse of Functionality
+* 210 Abuse Existing Functionality
 
 ### CWE Base / Class / Variant IDs
 * 799 Improper Control of Interaction Frequency
@@ -47,7 +47,7 @@ Coupon guessing; Voucher, gift card and discount enumeration
 
 ### WASC Threat IDs
 * 11 Brute Force
-* 21 Insfficient Anti-Automation
+* 21 Insufficient Anti-Automation
 * 42 Abuse of Functionality
 
 ### OWASP Attack Category / Attack IDs
