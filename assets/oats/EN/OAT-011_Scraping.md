@@ -24,12 +24,12 @@ Collect application content and/or other data for use elsewhere.
 <img alt="Indicative diagram for OAT-011" src="images/500px-OAT-011_Scraping.png" style="background-color:#eeeeee;padding:1em;">
 
 ### Description
-Collecting accessible data and/or processed output from the application. Some scraping may use fake or compromised accounts, or the information may be accessible without authentication. The scraper may attempt to read all accessible paths and parameter values for web pages and APIs, collecting the responses and extracting data from them. Scraping may occur in real time, or be more periodic in nature. Some Scraping may be used to gain insight into how it is constructed and operates - perhaps for cryptanalysis, reverse engineering, or session analysis.
+Collecting/copying accessible data and/or processed output, for subsequent use such as exploitation of proprietary data, or price-fixing. Some scraping may use fake or compromised accounts, or the information may be accessible without authentication. The scraper may attempt to read all accessible paths and parameter values for web pages and APIs, collecting the responses and extracting data from them. Scraping may occur in real time, or be more periodic in nature. Scraping can be used to gain insight into design/operation - perhaps for cryptanalysis, reverse engineering, or session analysis.
 
 When another application is being used as an intermediary between the user(s) and the real application, see [OAT-020 Account Aggregation](OAT-020_Account_Aggregation.html). If the intent is to obtain cash or goods, see [OAT-012 Cashing Out](OAT-012_Cashing_Out.html) instead.
 
 ### Other Names and Examples
-API provisioning; Bargain hunting; Comparative shopping; Content scraping; Data aggregation; Database scraping; Farming; Harvesting; Meta search scraper; Mining; Mirroring; Pagejacking; Powering APIs; Ripping; Scraper bot; Screen scraping; Search / social media bot
+AI RAG bot; API provisioning; Bargain hunting; Comparative shopping; Content scraping; Data aggregation; Database scraping; Farming; Harvesting; LLM/AI scraper; LLM training bot; Meta search scraper; Mining; Mirroring; Pagejacking; Ripping; Screen scraping; Subscriber snooping; Web crawler
 
 ### See Also
 * [OAT-012 Cashing Out](OAT-012_Cashing_Out.html)
@@ -38,9 +38,7 @@ API provisioning; Bargain hunting; Comparative shopping; Content scraping; Data 
 
 ## Cross-References
 ### CAPEC Category / Attack Pattern IDs
-* 167 Lifting Sensitive Data from the Client
-* 210 Abuse of Functionality
-* 281 Analyze Target
+* 210 Abuse Existing Functionality
 
 ### CWE Base / Class / Variant IDs
 * 799 Improper Control of Interaction Frequency
