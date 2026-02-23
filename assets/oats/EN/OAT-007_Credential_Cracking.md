@@ -42,7 +42,7 @@ Brute forcing log-in credentials; Brute-force password cracking; Cracking login 
 ### CAPEC Category / Attack Pattern IDs
 * 16 Dictionary-based Password Attack
 * 49 Password Brute Forcing
-* 70 Try Common(default) Usernames and Passwords
+* 70 Try Common or Default Usernames and Passwords
 * 112 Brute Force
 
 ### CWE Base / Class / Variant IDs
