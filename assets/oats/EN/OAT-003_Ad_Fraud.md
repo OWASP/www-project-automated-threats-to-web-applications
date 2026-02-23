@@ -12,7 +12,7 @@ project: true
 
 ## Definition
 ### OWASP Automated Threat (OAT) Identity Number
-OAT-0003
+OAT-003
 
 ### Threat Event Name
 Ad Fraud
@@ -34,13 +34,15 @@ Advert fraud; Adware traffic; Click bot; Click fraud; Hit fraud; Impression frau
 
 ### See Also
 * [OAT-016 Skewing](OAT-016_Skewing.html)
+* [OAT-017 Spamming](OAT-017_Spamming.html)
 
 ## Cross-References
 ### CAPEC Category / Attack Pattern IDs
-* 210 Abuse of Functionality
+* 210 Abuse Existing Functionality
 
 ### CWE Base / Class / Variant IDs
-* -
+* 799 Improper Control of Interaction Frequency
+* 841 Improper Enforcement of Behavioural Workflow
 
 ### WASC Threat IDs
 * 21 Insufficient Anti-Automation
