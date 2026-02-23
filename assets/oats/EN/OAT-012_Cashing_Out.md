@@ -28,9 +28,8 @@ Obtaining currency or higher-value merchandise via the application using stolen,
 
 Obtaining other information of value from the application is instead [OAT-011 Scraping](OAT-011_Scraping.html).
 
-
 ### Other Names and Examples
-
+Deetsing; Monetisation; Money laundering; Online credit card fraud; Online payment card fraud; Refund fraud; Stolen identity fraud (SIRF)
 
 ### See Also
 * [OAT-001 Carding](OAT-001_Carding.html)
