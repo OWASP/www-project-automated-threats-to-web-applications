@@ -30,15 +30,16 @@ Unlike [OAT-007 Credential Cracking](OAT-007_Credential_Cracking.html), Credenti
 
 
 ### Other Names and Examples
-Account checker attack; Account checking; Account takeover; Account takeover attack; Login Stuffing; Password list attack; Password re-use; Stolen credentials; Use of stolen credentials
+Account checker attack; Account checking; Account takeover; Account takeover attack; Checkers; Credential replay; Login stuffing; Password list attack; Password re-use; Stolen credentials; Use of stolen credentials
 
 ### See Also
 * [OAT-007 Credential Cracking](OAT-007_Credential_Cracking.html)
 * [OAT-019 Account Creation](OAT-019_Account_Creation.html)
+* [OAT-020 Account Aggregation](OAT-020_Account_Aggregation.html)
 
 ## Cross-References
 ### CAPEC Category / Attack Pattern IDs
-* 210 Abuse of Functionality
+* 210 Abuse Existing Functionality
 
 ### CWE Base / Class / Variant IDs
 * 799 Improper Control of Interaction Frequency
