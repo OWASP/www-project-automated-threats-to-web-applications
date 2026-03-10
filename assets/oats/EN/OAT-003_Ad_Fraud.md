@@ -15,7 +15,7 @@ project: true
 OAT-003
 
 ### Threat Event Name
-Ad Fraud
+Ad Fraud (deprecated - in v1.3 OAT-003 was renamed to [Cost-Inflation Fraud](OAT-003_Cost-Inflation_Fraud.html)
 
 ### Summary Defining Characteristics
 False clicks and fraudulent display of web-placed advertisements.
