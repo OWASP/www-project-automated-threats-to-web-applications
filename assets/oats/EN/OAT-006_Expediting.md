@@ -29,7 +29,7 @@ Using speed to violate explicit or implicit assumptions about the application’
 In contrast to [OAT-016 Skewing](OAT-016_Skewing.html) which affects metrics, Expediting is purely related to faster progression through a series of application processes. And [OAT-017 Spamming](OAT-017_Spamming.html) is different to Expediting, since the focus of spam is to add information, and may not involve the concept of process progression.
 
 ### Other Names and Examples
-AI agent; Algorithmic trading; Automated stock trading; Betting automation; Game automation; Gaming bot; Gold farming; Financial instrument dealing; High frequency trading; Last look trade; Mining; Purchase automation; Ticketing automation; Trading automation; Virtual wealth generation bot
+Algorithmic trading; Automated stock trading; Betting automation; Game automation; Gaming bot; Gold farming; Financial instrument dealing; High frequency trading; Last look trade; Mining; Purchase automation; Ticketing automation; Trading automation; Virtual wealth generation bot
 
 ### See Also
 * [OAT-005 Scalping](OAT-005_Scalping.html)
