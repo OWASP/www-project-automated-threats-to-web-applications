@@ -24,7 +24,7 @@ Mass use of functionality to illegitimately profit from chargeable supporting se
 <img alt="Indicative diagram for OAT-003" src="images/500px-OAT-003_Cost-Inflation_Fraud.png" style="background-color:#eeeeee;padding:1em;">
 
 ### Description
-Use of features which utilise some third-party provided services including API usage events (e.g. mapping, searchs, AI calls, messaging), pay per access (e.g. documents, research, data), advertising/affiliate marketing (e.g. click-throughs, advert views), and performance-related payment for a service (e.g. SEO). These interactions inflate charges billed by the relevant service provider. The attack depends on the service provider (or an employee, agent, intermediary, etc) also acting fraudulently or being compromised in some way, so the attacker is the beneficiary of the inflated charges.
+Use of features which utilise some third-party provided services including API usage events (e.g. mapping, search, AI calls, messaging), pay per access (e.g. documents, research, data), advertising/affiliate marketing (e.g. click-throughs, advert views), and performance-related payment for a service (e.g. SEO). These interactions inflate charges billed by the relevant service provider. The attack depends on the service provider (or an employee, agent, intermediary, etc) also acting fraudulently or being compromised in some way, so the attacker is the beneficiary of the inflated charges.
 
 See [OAT-016 Skewing](OAT-016_Skewing.html) instead for similar activity that does not involve inflation of charges which benefit the attacker. Prior to v1.3, OAT-003 was named Ad Fraud.
 
