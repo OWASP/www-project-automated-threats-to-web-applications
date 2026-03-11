@@ -15,17 +15,17 @@ The A-Z list of automated threat events and summary descriptions, defined in ful
 
 Identifier | OAT Name | Summary Defining Characteristics
 ---------|----------|-----------------------------------
-[OAT-020](assets/oats/EN/OAT-020_Account_Aggregation.html) | Account Aggregation | Use by an intermediary application that collects together multiple accounts and interacts on their behalf
+[OAT-020](assets/oats/EN/OAT-020_Account_Aggregation.html) | Account Aggregation | Use by an intermediary application collecting together multiple accounts and interacting on their behalf
 [OAT-019](assets/oats/EN/OAT-019_Account_Creation.html) | Account Creation | Create multiple accounts for subsequent misuse
-[OAT-003](assets/oats/EN/OAT-003_Ad_Fraud.html) | Ad Fraud | False clicks and fraudulent display of web-placed advertisements
+[OAT-003](assets/oats/EN/OAT-003_Cost-Inflation_Fraud.html) | Cost-Inflation Fraud | Mass use of functionality to illegitamately profit from chargeable supporting services
 [OAT-009](assets/oats/EN/OAT-009_CAPTCHA_Defeat.html) | CAPTCHA Defeat | Solve anti-automation tests
-[OAT-010](assets/oats/EN/OAT-010_Card_Cracking.html) | Card Cracking | Identify missing start/expiry dates and security codes for stolen payment card data by trying different values
-[OAT-001](assets/oats/EN/OAT-001_Carding.html) | Carding | Multiple payment authorisation attempts used to verify the validity of bulk stolen payment card data
+[OAT-010](assets/oats/EN/OAT-010_Card_Cracking.html) | Card Cracking | Identify missing start/expiry dates and security codes for stolen payment card data
+[OAT-001](assets/oats/EN/OAT-001_Carding.html) | Carding | Multiple payment authorisation attempts to verify the validity of bulk stolen payment card data
 [OAT-012](assets/oats/EN/OAT-012_Cashing_Out.html) | Cashing Out | Buy goods or obtain cash utilising validated stolen payment card or other user account data
 [OAT-007](assets/oats/EN/OAT-007_Credential_Cracking.html) | Credential Cracking | Identify valid login credentials by trying different values for usernames and/or passwords
 [OAT-008](assets/oats/EN/OAT-008_Credential_Stuffing.html) | Credential Stuffing | Mass log in attempts used to verify the validity of stolen username/password pairs
-[OAT-021](assets/oats/EN/OAT-021_Denial_of_Inventory.html) | Denial of Inventory | Deplete goods or services stock without ever completing the purchase or committing to the transaction
-[OAT-015](assets/oats/EN/OAT-015_Denial_of_Service.html) | Denial of Service | Target resources of the application and database servers, or individual user accounts, to achieve denial of service (DoS)
+[OAT-021](assets/oats/EN/OAT-021_Denial_of_Inventory.html) | Denial of Inventory | Deplete goods or services stock without completing the purchase or committing to the transaction
+[OAT-015](assets/oats/EN/OAT-015_Denial_of_Service.html) | Denial of Service | Target resources of the application and database servers, or individual user accounts, reducing availability
 [OAT-006](assets/oats/EN/OAT-006_Expediting.html) | Expediting | Perform actions to hasten progress of usually slow, tedious or time-consuming actions
 [OAT-004](assets/oats/EN/OAT-004_Fingerprinting.html) | Fingerprinting | Elicit information about the supporting software and framework types and versions
 [OAT-018](assets/oats/EN/OAT-018_Footprinting.html) | Footprinting | Probe and explore application to identify its constituents and properties
@@ -33,7 +33,7 @@ Identifier | OAT Name | Summary Defining Characteristics
 [OAT-011](assets/oats/EN/OAT-011_Scraping.html) | Scraping | Collect application content and/or other data for use elsewhere
 [OAT-016](assets/oats/EN/OAT-016_Skewing.html) | Skewing | Repeated link clicks, page requests or form submissions intended to alter some metric
 [OAT-013](assets/oats/EN/OAT-013_Sniping.html) | Sniping | Last minute bid or offer for goods or services
-[OAT-017](assets/oats/EN/OAT-017_Spamming.html) | Spamming | Malicious or questionable information addition that appears in public or private content, databases or user messages
+[OAT-017](assets/oats/EN/OAT-017_Spamming.html) | Spamming | Malicious or questionable information addition to public or private content, or messages
 [OAT-002](assets/oats/EN/OAT-002_Token_Cracking.html) | Token Cracking | Mass enumeration of coupon numbers, voucher codes, discount tokens, etc
 [OAT-014](assets/oats/EN/OAT-014_Vulnerability_Scanning.html) | Vulnerability Scanning | Crawl and fuzz application to identify weaknesses and possible vulnerabilities
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp; | &nbsp;
