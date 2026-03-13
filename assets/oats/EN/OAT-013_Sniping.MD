@@ -42,7 +42,7 @@ Auction sniping; Bid sniper; Front- running; Last look; Last minute bet; Timing 
 * 210 Abuse Existing Functionality
 
 ### CWE Base / Class / Variant IDs
-* -
+* —
 
 ### WASC Threat IDs
 * 21 Insufficient Anti-Automation
