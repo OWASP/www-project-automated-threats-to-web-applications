@@ -18,7 +18,7 @@ OAT-015
 Denial of Service
 
 ### Summary Defining Characteristics
-Target resources of the application and database servers, or accounts, to achieve denial of service (DoS).
+Target resources of the application and database servers, or individual user accounts, reducing availability.
 
 ### Indicative Diagram
 <img alt="Indicative diagram for OAT-015" src="images/500px-OAT-015_Denial_of_Service.png" style="background-color:#eeeeee;padding:1em;">
