@@ -30,7 +30,7 @@ See [OAT-016 Skewing](OAT-016_Skewing.html) instead for similar activity that do
 
 
 ### Other Names and Examples
-API usage inflation; Artificially Inflated Traffic (AIT); Advert fraud; Adware traffic; Click bot; Click fraud; Hit fraud; Impression fraud; Pay per click advertising abuse; Phoney ad traffic; SMS Pumping; Toll fraud; Transfer pricing
+API usage inflation; Artificially Inflated Traffic (AIT); Advert fraud; Adware traffic; Click bot; Click fraud; Hit fraud; Impression fraud; Pay per click advertising abuse; Phoney ad traffic; SMS pumping; Toll fraud; Transfer pricing
 
 ### See Also
 * [OAT-016 Skewing](OAT-016_Skewing.html)
