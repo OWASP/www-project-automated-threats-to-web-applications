@@ -29,7 +29,7 @@ Compilation of credentials and information from multiple application accounts in
 For other forms of data harvesting, including the distribution of content, see [OAT-011 Scraping](OAT-011_Scraping.html). For hastening progress, see [OAT-006 Expediting](OAT-006_Expediting.html) instead.
 
 ### Other Names and Examples
-Aggregator; Brokering; Client aggregator; Cloud services brokerage; Data aggregation; Financial account aggregator; Intermediarisation; Intermediation
+Aggregator; Assistant; Brokering; Client aggregator; Cloud services brokerage; Data aggregation; Financial account aggregator; Intermediarisation; Intermediation
 
 ### See Also
 * [OAT-006 Expediting](OAT-006_Expediting.html)
