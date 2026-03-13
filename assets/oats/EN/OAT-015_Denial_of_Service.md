@@ -29,7 +29,7 @@ Usage may resemble legitimate application usage, but may lead to reduced perform
 This ontology’s scope excludes other forms of denial of service that affect web applications, namely HTTP Flood DoS (GET, POST, Header with/without TLS), HTTP Slow DoS, IP layer 3 DoS, and TCP layer 4 DoS. Those protocol and lower layer aspects are covered adequately in other taxonomies and lists.
 
 ### Other Names and Examples
-Account lockout; App layer DDoS; Asymmetric resource consumption (amplification); Business logic DDoS; Cash overflow; Forced deadlock; Hash DoS; Inefficient code; Indexer DoS; Large files DoS; Resource depletion, locking or exhaustion; Sustained client engagement
+Account lockout; App layer DDoS; Asymmetric resource consumption (amplification); Business logic DDoS; Cash overflow; Denial of wallet; Forced deadlock; Hash DoS; Indexer DoS; Large files DoS; Resource depletion, locking or exhaustion; Unbounded consumption
 
 ### See Also
 * [OAT-005 Scalping](OAT-005_Scalping.html)
