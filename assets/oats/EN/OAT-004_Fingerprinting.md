@@ -49,6 +49,6 @@ Google dorking; Google hacking; Shodaning; Finding potentially vulnerable applic
 * 45 Fingerprinting
 
 ### OWASP Attack Category / Attack IDs
-* -
+* —
 
 <br/><br/>Return to [OWASP Automated Threats to Web Applications Project](../../../).<br/><br/>
