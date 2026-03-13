@@ -26,13 +26,13 @@ Malicious or questionable information addition to public or private content, or 
 ### Description
 Malicious content can include malware, IFRAME distribution, photographs & videos, advertisements, stolen intellectual property, referrer spam and tracking/surveillance code. The content might be less overtly malicious but be an attempt to cause mischief, undertake search engine optimisation (SEO) or to dilute/hide other posts.
 
-The mass abuse of broken form-to-email and form-to-SMS functions to send messages to unintended recipients is not included in this threat event, or any other in this ontology, since those are considered to be the exploitation of implementation flaws alone. For multiple use to inflate billable traffic, see OAT-003 ???. For multiple use that distorts metrics, see [OAT-016 Skewing](OAT-016_Skewing.html) instead.
+The mass abuse of broken form-to-email and form-to-SMS functions, to send messages to unintended recipients, is not included in this threat event, or any other in this ontology, since those are considered to be the exploitation of implementation flaws alone. For multiple use to inflate billable traffic, see [OAT-003 Cost-Inflation Fraud](OAT-003_Cost-Inflation_Fraud.html). For multiple use that distorts metrics, see [OAT-016 Skewing](OAT-016_Skewing.html) instead.
 
 ### Other Names and Examples
-AI generated content; Blog spam; Bulletin board spam; Click-bait; Comment spam; Content spam; Content spoofing; Fake news; Form spam; Forum spam; Referrer spam; Reply bot; Review spam; SEO spam; Social media bot; Spambot; Sythetic media; Wiki spam
+AI generated content; Blog spam; Bulletin board spam; Click-bait; Comment spam; Content spam; Content spoofing; Fake news; Form spam; Forum spam; Referrer spam; Reply bot; Review spam; SEO spam; Social media bot; Spambot; Synthetic media; Wiki spam
 
 ### See Also
-* OAT-003 ???
+* [OAT-003 Cost-Inflation Fraud](OAT-003_Cost-Inflation_Fraud.html)
 * [OAT-015 Denial of Service](OAT-015_Denial_of_Service.html)
 * [OAT-016 Skewing](OAT-016_Skewing.html)
 * [OAT-019 Account Creation](OAT-019_Account_Creation.html)
