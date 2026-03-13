@@ -37,7 +37,7 @@ Breaking CAPTCHA; CAPTCHA breaker; CAPTCHA breaking; CAPTCHA bypass; CAPTCHA dec
 
 ## Cross-References
 ### CAPEC Category / Attack Pattern IDs
-* -
+* —
 
 ### CWE Base / Class / Variant IDs
 * 804 Guessable CAPTCHA
@@ -48,6 +48,6 @@ Breaking CAPTCHA; CAPTCHA breaker; CAPTCHA breaking; CAPTCHA bypass; CAPTCHA dec
 * 42 Abuse of Functionality
 
 ### OWASP Attack Category / Attack IDs
-* -
+* —
 
 <br/><br/>Return to [OWASP Automated Threats to Web Applications Project](../../../).<br/><br/>
