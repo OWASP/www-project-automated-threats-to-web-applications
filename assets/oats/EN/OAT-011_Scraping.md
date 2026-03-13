@@ -24,7 +24,7 @@ Collect application content and/or other data for use elsewhere.
 <img alt="Indicative diagram for OAT-011" src="images/500px-OAT-011_Scraping.png" style="background-color:#eeeeee;padding:1em;">
 
 ### Description
-Collecting/copying accessible data and/or processed output, for subsequent use such as exploitation of proprietary data, or price-fixing. Some scraping may use fake or compromised accounts, or the information may be accessible without authentication. The scraper may attempt to read all accessible paths and parameter values for web pages and APIs, collecting the responses and extracting data from them. Scraping may occur in real time, or be more periodic in nature. Scraping can be used to gain insight into design/operation - perhaps for cryptanalysis, reverse engineering, or session analysis.
+Collecting/copying accessible data and/or processed output, for subsequent use such as exploitation of proprietary data, or price-fixing. Some scraping may use fake or compromised accounts, or the information may be accessible without authentication. The scraper may attempt to read all accessible paths and parameter values for web pages and APIs, collecting the responses and extracting data from them. Scraping can be ongoing, or be more periodic in nature. Scraping can be used to gain insight into design/operation - perhaps for cryptanalysis, reverse engineering, or session analysis.
 
 When another application is being used as an intermediary between the user(s) and the real application, see [OAT-020 Account Aggregation](OAT-020_Account_Aggregation.html). If the intent is to obtain cash or goods, see [OAT-012 Cashing Out](OAT-012_Cashing_Out.html) instead.
 
