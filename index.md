@@ -16,9 +16,9 @@ type: documentation
 
 The OWASP Automated Threats to Web Applications Project completed a review of reports, academic and other papers, news stories and vulnerability taxonomies/listings to identify, name and classify these scenarios – automated by software causing a divergence from accepted behavior producing one or more undesirable effects on a web application, but excluding tool-based exploitation of single-issue vulnerabilities. The initial objective was to produce an ontology providing a common language for developers, architects, operators, business owners, security engineers, purchasers and suppliers/ vendors, to facilitate clear communication and help tackle the issues. The project also identifies symptoms, mitigations and controls in this problem area. The project team monitor changes and possibel additions to keep the handbook updated. Like all OWASP outputs, everything is free and published using an open source license.
 
-Watch a video which provides a brief introduction to the OWASP Automated Threats to Web Applications Project:
+Watch a video which provides a brief introduction to the OWASP Automated Threats to Web Applications Project called "Automated Threats - Web's Hidden Puppeteers":
 
-[![Automated Threats - Web's Hidden Puppeteers (An Introduction to the OWASP Automated Threats Project)](https://img.youtube.com/vi/6cNwrtzPP1E/maxresdefault.jpg)](https://www.youtube.com/watch?v=6cNwrtzPP1E)
+[![Automated Threats - Web's Hidden Puppeteers (An Introduction to the OWASP Automated Threats Project)](/assets/images/video-thumbnail.png)](https://www.youtube.com/watch?v=6cNwrtzPP1E)
 
 ## Description
 
