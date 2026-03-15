@@ -13,6 +13,7 @@ tags: oat
 * Sumit Agarwal
 * Areejit Banerjee
 * Jason Chan
+* Cassio Goldschmidt
 * Mark Hall
 * Omri Iluz
 * José Santos Martins Pereira
@@ -26,7 +27,7 @@ tags: oat
 
 Additionally other professional colleagues and website owners and operators who provided feedback.
 
-### Reviewers
+### Reviewers of v1.0
 * Igor Andriushchenko
 * Gabriel Mendez Justiniano
 * Matt Tesauro
