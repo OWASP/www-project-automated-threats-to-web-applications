@@ -56,7 +56,7 @@ Not sure which is which? Use the [threat identification chart](assets/files/oat-
 
 We have also created a poster summarising all the OATs called "The Web's Unwanted Bad Bots":
 
-[![The Web's Unwanted Bad Bots](/assets/images/oat-poster-1v3-3-small.png)](/assets/images/oat-poster-1v3-3.png)
+![The Web's Unwanted Bad Bots](/assets/images/oat-poster-1v3-3.png)
 
 This poster is also available as a [PDF](/assets/files/oat-poster-1v3-3.pdf).
 
