@@ -2,7 +2,7 @@
 
 * [OAT-020 Account Aggregation](OAT-020_Account_Aggregation.html)
 * [OAT-019 Account Creation](OAT-019_Account_Creation.html)
-* [OAT-003 Ad Fraud](OAT-003_Ad_Fraud.html)
+* [OAT-003 Cost-Inflation Fraud](OAT-003_Cost-Inflation_Fraud.html)
 * [OAT-009 CAPTCHA Defeat](OAT-009_CAPTCHA_Defeat.html)
 * [OAT-010 Card Cracking](OAT-010_Card_Cracking.html)
 * [OAT-001 Carding](OAT-001_Carding.html)
