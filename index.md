@@ -16,6 +16,10 @@ type: documentation
 
 The OWASP Automated Threats to Web Applications Project completed a review of reports, academic and other papers, news stories and vulnerability taxonomies/listings to identify, name and classify these scenarios – automated by software causing a divergence from accepted behavior producing one or more undesirable effects on a web application, but excluding tool-based exploitation of single-issue vulnerabilities. The initial objective was to produce an ontology providing a common language for developers, architects, operators, business owners, security engineers, purchasers and suppliers/ vendors, to facilitate clear communication and help tackle the issues. The project also identifies symptoms, mitigations and controls in this problem area. The project team monitor changes and possibel additions to keep the handbook updated. Like all OWASP outputs, everything is free and published using an open source license.
 
+[![Introduction to the OWASP Automated Thraets Project]
+(https://img.youtube.com/vi/6cNwrtzPP1E/maxresdefault.jpg)]
+(https://www.youtube.com/watch?v=6cNwrtzPP1E)
+
 ## Description
 
 Web applications are subjected to unwanted automated usage – day in, day out. Often these events relate to misuse of inherent valid functionality, rather than the attempted exploitation of unmitigated vulnerabilities. Also, excessive misuse is commonly mistakenly reported as application denial-of-service (DoS) like HTTP-flooding, when in fact the DoS is a side-effect instead of the primary intent. Frequently these have sector-specific names. Most of these problems seen regularly by web application owners are not listed in any OWASP Top Ten or other top issue list. Furthermore, they are not enumerated or defined adequately in existing dictionaries. These factors have contributed to inadequate visibility, and an inconsistency in naming such threats, with a consequent lack of clarity in attempts to address the issues.
@@ -28,7 +32,7 @@ The list of threat events, defined more fully in the [OWASP Automated Threat Han
 
 * [OAT-020 Account Aggregation](assets/oats/EN/OAT-020_Account_Aggregation.html)
 * [OAT-019 Account Creation](assets/oats/EN/OAT-019_Account_Creation.html)
-* [OAT-003 Ad Fraud](assets/oats/EN/OAT-003_Ad_Fraud.html)
+* [OAT-003 Cost-Inflation Fraud](assets/oats/EN/OAT-003_Cost-Inflation_Fraud.html)
 * [OAT-009 CAPTCHA Defeat](assets/oats/EN/OAT-009_CAPTCHA_Defeat.html)
 * [OAT-010 Card Cracking](assets/oats/EN/OAT-010_Card_Cracking.html)
 * [OAT-001 Carding](assets/oats/EN/OAT-001_Carding.html)
@@ -49,6 +53,10 @@ The list of threat events, defined more fully in the [OWASP Automated Threat Han
 * [OAT-014 Vulnerability Scanning](assets/oats/EN/OAT-014_Vulnerability_Scanning.html)
 
 Not sure which is which? Use the [threat identification chart](assets/files/oat-ontology-decision-chart.pdf) in conjunction with the [full handbook](https://github.com/OWASP/www-project-automated-threats-to-web-applications/tree/master/assets/files/EN).
+
+We have also created a p[oster summarising all the OATs:
+
+
 
 ## Licensing
 
