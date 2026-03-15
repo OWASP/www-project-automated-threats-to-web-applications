@@ -16,6 +16,8 @@ type: documentation
 
 The OWASP Automated Threats to Web Applications Project completed a review of reports, academic and other papers, news stories and vulnerability taxonomies/listings to identify, name and classify these scenarios – automated by software causing a divergence from accepted behavior producing one or more undesirable effects on a web application, but excluding tool-based exploitation of single-issue vulnerabilities. The initial objective was to produce an ontology providing a common language for developers, architects, operators, business owners, security engineers, purchasers and suppliers/ vendors, to facilitate clear communication and help tackle the issues. The project also identifies symptoms, mitigations and controls in this problem area. The project team monitor changes and possibel additions to keep the handbook updated. Like all OWASP outputs, everything is free and published using an open source license.
 
+Watch a video which provides a brief introduction to the OWASP Automated Threats to Web Applications Project:
+
 [![Automated Threats - Web's Hidden Puppeteers (An Introduction to the OWASP Automated Threats Project)](https://img.youtube.com/vi/6cNwrtzPP1E/maxresdefault.jpg)](https://www.youtube.com/watch?v=6cNwrtzPP1E)
 
 ## Description
@@ -52,9 +54,11 @@ The list of threat events, defined more fully in the [OWASP Automated Threat Han
 
 Not sure which is which? Use the [threat identification chart](assets/files/oat-ontology-decision-chart.pdf) in conjunction with the [full handbook](https://github.com/OWASP/www-project-automated-threats-to-web-applications/tree/master/assets/files/EN).
 
-We have also created a p[oster summarising all the OATs:
+We have also created a poster summarising all the OATs called "The Web's Unwanted Bad Bots":
 
+[![The Web's Unwanted Bad Bots](/assets/images/oat-poster-1v3-3-small.png)](/assets/images/oat-poster-1v3-3.png)
 
+This poster is also available as a [PDF](/assets/files/oat-poster-1v3-3.pdf).
 
 ## Licensing
 
