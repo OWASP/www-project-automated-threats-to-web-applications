@@ -4,6 +4,13 @@
 
 ## Unreleased
 
+## v1.30 - 17 March 2026
+- OAT-003 Ad Fraud has been renamed OAT-003 Cost-Inflation Fraud
+- OAT-003's summary, description and countermeasures rewritten
+- Refesh OAT descriptions and other names/examples
+- Updated cross referencing with CAPEC v3.9 and CWE v4.18
+- Hyperlink URLs updated
+- Other minor corrections and readability improvements
 
 ## v1.20 - 16 February 2018	
 - OAT-021 Denial of Inventory added
